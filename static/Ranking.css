@@ -1109,6 +1109,38 @@ abbr {
 }
 
 
+/* Style for the home button */
+#HomeButton_box {
+    float: left;
+    margin: 0.5em;
+    background-color: white;
+    cursor: pointer;
+}
+
+#HomeButton_label {
+    height: 1.3em;
+    padding: 0.25em 20px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 4px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+#HomeButton_box:hover {
+    background-color: rgba(255, 255, 255, 0.5);
+    text-decoration: underline;
+}
+
+#HomeButton_link {
+    color: #1745ff;
+    text-decoration: none;
+}
+
+
 /* Style for the network status indicator */
 
 #ConnectionStatus_box {
