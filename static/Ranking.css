@@ -937,6 +937,7 @@ abbr {
 #UserDetail_name > a {
     text-decoration: underline;
     color: black;
+    background-color: white;
 }
 #UserDetail_name > a:hover {
     cursor: pointer;
