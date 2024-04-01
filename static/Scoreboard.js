@@ -92,7 +92,7 @@ var Scoreboard = new function () {
         });
 
         // Create callbacks for UserPanel
-        self.tbody_el.on("click", "td.f_name, td.l_name", function () {
+        self.tbody_el.on("click", "td.f_name, td.l_name, td.user_id", function () {
             UserDetail.show($(this).parent().data("user"));
         });
 
@@ -153,6 +153,7 @@ var Scoreboard = new function () {
 <col class=\"rank\"/> \
 <col class=\"f_name\"/> <col/><col/><col/><col/><col/><col/><col/><col/><col/> \
 <col class=\"l_name\"/> <col/><col/><col/><col/><col/><col/><col/><col/><col/> \
+<col class=\"user_id\"/> \
 <col class=\"team\"/>";
 
         var contests = DataStore.contest_list;
@@ -188,6 +189,7 @@ var Scoreboard = new function () {
     <th class=\"rank\">Rank</th> \
     <th colspan=\"10\" class=\"f_name\">First Name</th> \
     <th colspan=\"10\" class=\"l_name\">Last Name</th> \
+    <th class=\"user_id\">ID</th> \
     <th class=\"team\">Team</th>";
 
         var contests = DataStore.contest_list;
@@ -237,7 +239,8 @@ var Scoreboard = new function () {
     <td class=\"sel\"></td> \
     <td class=\"rank\">" + user["rank"] + "</td> \
     <td colspan=\"10\" class=\"f_name\">" + escapeHTML(user["f_name"]) + "</td> \
-    <td colspan=\"10\" class=\"l_name\">" + escapeHTML(user["l_name"]) + "</td>";
+    <td colspan=\"10\" class=\"l_name\">" + escapeHTML(user["l_name"]) + "</td> \
+    <td class=\"user_id\">" + user["display_key"] + "</td>";
 
         if (user['team']) {
             if (DataStore.asset_config && DataStore.asset_config["noflags"])
@@ -245,10 +248,10 @@ var Scoreboard = new function () {
             <td class=\"team\">" + user["team"] + "</td>";
             else
                 result += " \
-    <td class=\"team\" title=\"" + DataStore.teams[user["team"]]["name"] + "\">" + user['display_key'] + "</td>";
+    <td class=\"team\"><img src=\"" + Config.get_flag_url(user["team"]) + "\" title=\"" + DataStore.teams[user["team"]]["name"] + "\" /></td>";
         } else {
             result += " \
-    <td class=\"team\">" + user['display_key'] + "</td>";
+    <td class=\"team\"></td>";
         }
 
         var contests = DataStore.contest_list;
@@ -389,7 +392,7 @@ var Scoreboard = new function () {
         user["index"] = self.user_list.length;
         self.user_list.push(user);
 
-        self.tbody_el.append(row);
+        self.tbody_el.append($row);
         // The row will be at the bottom (since it has a score of zero and thus
         // the maximum rank), but we may still need to sort it due to other
         // users having that score and the sort-by-name clause.
@@ -411,9 +414,10 @@ var Scoreboard = new function () {
         $row.children("td.f_name").text(user["f_name"]);
         $row.children("td.l_name").text(user["l_name"]);
 
-        $row.children(".team").text(user['key']);
         if (user["team"]) {
-            $row.children(".team").attr("title", DataStore.teams[user["team"]]["name"]);
+            $row.children(".team").html("<img src=\"" + Config.get_flag_url(user["team"]) + "\" title=\"" + DataStore.teams[user["team"]]["name"] + "\" />");
+        } else {
+            $row.children(".team").text("");
         }
     };
 
