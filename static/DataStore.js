@@ -218,7 +218,11 @@ var DataStore = new function () {
         data["key"] = key;
         // MODIFICATION - patch IOI 2017 user ids
         if (/^[A-Z]{3}_2d\d$/.test(key)) {
-            data.display_key = key.slice(0, 3) + key.charAt(key.length - 1);
+            if (key.slice(0, 3) === "IRI") { // team 2
+                data.display_key = "IRN" + (Number.parseInt(key.charAt(key.length - 1)) + 4);
+            } else {
+                data.display_key = key.slice(0, 3) + key.charAt(key.length - 1);
+            }
         } else {
             data.display_key = key;
         }

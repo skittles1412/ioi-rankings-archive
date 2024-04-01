@@ -35,6 +35,15 @@ var Config = new function () {
     };
 
     self.get_flag_url = function (t_key) {
+        // 2nd teams
+        if (t_key.charAt(t_key.length - 1) === "2") {
+            t_key = t_key.slice(0, t_key.length - 1);
+        }
+        // the ioi2017 iran team 2 is IRI for some reason
+        if (t_key === "IRI") {
+            t_key = "IRN";
+        }
+
         return "../flags/" + t_key;
     };
 
