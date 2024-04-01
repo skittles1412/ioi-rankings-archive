@@ -360,6 +360,11 @@ abbr {
     vertical-align: middle;
 }
 
+#TeamSearch_body div.item span {
+    margin: auto 5px auto 0;
+    vertical-align: middle;
+}
+
 #TeamSearch_body div.item img {
     display: inline-block;
     max-height: 20px;

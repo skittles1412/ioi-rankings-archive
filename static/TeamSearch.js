@@ -121,7 +121,14 @@ var TeamSearch = new function () {
 <div class=\"item\" data-team=\"" + t_id + "\"> \
     <label> \
         <input type=\"checkbox\"/> \
-        <span>" + t_id +": " + team['name'] + " \
+        <span>"
+        if (!(DataStore.asset_config && DataStore.asset_config["noflags"])) {
+            inner_html += "<img class=\"flag\" src=\"" + Config.get_flag_url(t_id) + "\" /> "
+        } else {
+            inner_html += t_id + ": ";
+        }
+        inner_html += team['name'] + " \
+        </span> \
     </label> \
 </div>";
         }
