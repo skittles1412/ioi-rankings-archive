@@ -179,7 +179,9 @@ var UserDetail = new function () {
             if (DataStore.asset_config && DataStore.asset_config["nofaces"])
                 self.face_image.addClass("hidden")
             else {
-                self.face_image.removeClass("hidden")
+                self.face_image.removeClass("hidden");
+                // MODIFICATION - we first clear the src so we don't show the old face while the browser loads the new image
+                self.face_image.attr("src", "");
                 self.face_image.attr("src", Config.get_face_url(self.user_id));
             }
 
