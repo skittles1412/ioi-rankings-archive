@@ -26,7 +26,15 @@ var HistoryStore = new function () {
         self.history_g = new Array();  // global
     };
 
+    // MODIFICATION - the history is static, so we only need to ever fetch it once
+    self.fetched_history = false;
+
     self.request_update = function (callback) {
+        if (self.fetched_history) {
+            callback();
+            return;
+        }
+
         $.ajax({
             url: Config.get_history_url(),
             dataType: "json",
@@ -80,6 +88,7 @@ var HistoryStore = new function () {
             }
         }
 
+        self.fetched_history = true;
         callback();
     };
 
