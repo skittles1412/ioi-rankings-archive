@@ -35,7 +35,7 @@ var DataStore = new function () {
     var self = this;
 
     // MODIFICATION
-    self.year = window.location.href.match(/ioi-(\d+)/)[1];
+    self.year = $("meta[name=ioi-year]").attr("content");
     window.document.title = `IOI ${self.year} Rankings`;
 
     self.contests = new Object();
