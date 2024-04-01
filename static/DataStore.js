@@ -646,9 +646,11 @@ var DataStore = new function () {
         return min_idx+1;
     }
 
+    const LOCAL_STORAGE_KEY_PREFIX = `${self.year}.cms.rws.selection.users.`;
+
     self.init_selections = function () {
         $.each(self.users, function (u_id) {
-            var color_idx = parseInt(localStorage.getItem("cms.rws.selection.users." + u_id));
+            var color_idx = parseInt(localStorage.getItem(LOCAL_STORAGE_KEY_PREFIX + u_id));
             if (color_idx > 0)
             {
                 self.set_selected(u_id, true, color_idx);
@@ -666,9 +668,9 @@ var DataStore = new function () {
                         self.set_selected(u_id, false);
                     });
                 }
-                else if (event.key.lastIndexOf("cms.rws.selection.users.", 0) === 0)
+                else if (event.key.lastIndexOf(LOCAL_STORAGE_KEY_PREFIX, 0) === 0)
                 {
-                    var u_id = event.key.substr(24);
+                    var u_id = event.key.substr(LOCAL_STORAGE_KEY_PREFIX.length);
                     if (event.oldValue === null && event.newValue !== null)
                     {
                         self.set_selected(u_id, true, parseInt(event.newValue));
@@ -691,7 +693,7 @@ var DataStore = new function () {
             }
             self.users[u_id]["selected"] = color_idx;
             self.colors[color_idx-1] += 1;
-            localStorage.setItem("cms.rws.selection.users." + u_id, color_idx);
+            localStorage.setItem(LOCAL_STORAGE_KEY_PREFIX + u_id, color_idx);
             self.select_events.fire(u_id, color_idx);
         }
         else if (self.users[u_id]["selected"] != 0 && !flag) {
@@ -699,7 +701,7 @@ var DataStore = new function () {
             var color_idx = self.users[u_id]["selected"];
             self.users[u_id]["selected"] = 0;
             self.colors[color_idx-1] -= 1;
-            localStorage.removeItem("cms.rws.selection.users." + u_id);
+            localStorage.removeItem(LOCAL_STORAGE_KEY_PREFIX + u_id);
             self.select_events.fire(u_id, 0);
         }
     };
