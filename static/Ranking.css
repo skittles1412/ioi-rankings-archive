@@ -382,6 +382,19 @@ abbr {
 |                                   ----------                                 |
 \******************************************************************************/
 
+/* These are the colors at stats.ioinformatics.org */
+.medal-gold {
+    background-color: #FFEE55;
+}
+.medal-silver {
+    background-color: #CCCCCC;
+}
+.medal-bronze {
+    background-color: #B87838;
+}
+.medal-hm {
+    background-color: #B197FA;
+}
 
 #Scoreboard {
     width: 100%;

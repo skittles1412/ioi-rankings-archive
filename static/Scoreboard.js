@@ -229,15 +229,13 @@ var Scoreboard = new function () {
         self.sort();
     };
 
-    
-
 
     self.make_row = function (user) {
         // See the comment in .make_cols() for the reason we use colspans.
         var result = " \
 <tr class=\"user" + (user["selected"] > 0 ? " selected color" + user["selected"] : "") + "\" data-user=\"" + user["key"] + "\"> \
     <td class=\"sel\"></td> \
-    <td class=\"rank\">" + user["rank"] + "</td> \
+    <td class=\"rank medal-" + Config.get_medal(user["rank"]) + "\">" + user["rank"] + "</td> \
     <td colspan=\"10\" class=\"f_name\">" + escapeHTML(user["f_name"]) + "</td> \
     <td colspan=\"10\" class=\"l_name\">" + escapeHTML(user["l_name"]) + "</td> \
     <td class=\"user_id\">" + user["display_key"] + "</td>";
