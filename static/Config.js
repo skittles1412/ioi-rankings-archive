@@ -15,6 +15,40 @@
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  */
 
+// gold medal boundary at x means rank <= x gets gold
+const MEDAL_BOUNDARIES = {
+    2023: {
+        gold: 30,
+        silver: 89,
+        bronze: 178,
+    },
+    2022: {
+        gold: 30,
+        silver: 89,
+        bronze: 179,
+    },
+    2021: {
+        gold: 30,
+        silver: 86,
+        bronze: 173,
+    },
+    2020: {
+        gold: 29,
+        silver: 87,
+        bronze: 174,
+    },
+    2019: {
+        gold: 28,
+        silver: 82,
+        bronze: 163,
+    },
+    2017: {
+        gold: 26,
+        silver: 80,
+        bronze: 156,
+    }
+};
+
 var Config = new function () {
     var self = this;
 
@@ -70,4 +104,18 @@ var Config = new function () {
     self.get_stats_url = function () {
         return "../stats.json";
     };
+
+    self.get_medal = function (rank) {
+        const {gold, silver, bronze} = MEDAL_BOUNDARIES[DataStore.year];
+
+        if (rank <= gold) {
+            return "gold";
+        } else if (rank <= silver) {
+            return "silver";
+        } else if (rank <= bronze) {
+            return "bronze";
+        } else {
+            return "none";
+        }
+    }
 };
