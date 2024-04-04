@@ -35,7 +35,11 @@
         <!--[if lt IE 9]>
             <script src="/lib/explorercanvas.js"></script>
         <![endif]-->
-        <script type="module" src="./data.js"></script>
+        <script type="module">
+            import data from "./data.json";
+
+            window.data = data;
+        </script>
         <script type="module" src="../index.js"></script>
         <title>IOI Rankings</title>
     </head>
