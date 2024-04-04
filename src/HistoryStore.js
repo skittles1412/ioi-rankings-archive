@@ -26,6 +26,9 @@ export default new function () {
         self.history_t = new Array();  // per task
         self.history_c = new Array();  // per contest
         self.history_g = new Array();  // global
+
+        // MODIFICATION - since we're only fetching the history once, we might as well fetch it at the start
+        self.request_update(function () {});
     };
 
     // MODIFICATION - the history is static, so we only need to ever fetch it once
