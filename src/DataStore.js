@@ -16,6 +16,7 @@
  */
 
 import $ from "jquery";
+import stats from "./stats.json";
 
 function round(value, ndigits) {
     value *= Math.pow(10, ndigits);
@@ -481,8 +482,8 @@ export default new function () {
     };
 
     self.init_stats = function () {
-        import("./stats.json").then(data => {
-            data = {...data, ...data.default};
+        {
+            const data = stats;
 
             self.stats_people = data;
             self.stats_people_fuzzy = Object.fromEntries(Object.entries(data).map(([k, v]) => [self.normalize_fuzzy_name(k), v]));
@@ -490,7 +491,7 @@ export default new function () {
             if (self.inits_todo == 0) {
                 self.init_scores();
             }
-        })
+        }
         // $.ajax({
         //     url: Config.get_stats_url(),
         //     dataType: "json",
