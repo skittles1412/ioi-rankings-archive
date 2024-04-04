@@ -17,7 +17,7 @@
 
 import $ from "jquery";
 import DataStore, {round_to_str} from "./DataStore.js";
-import {format_time} from "./TimeView.js";
+import { format_time } from "./TimeView.js";
 import HistoryStore from "./HistoryStore.js";
 import Config from "./Config.js";
 import Chart from "./Chart.js";
