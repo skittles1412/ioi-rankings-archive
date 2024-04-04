@@ -9,10 +9,12 @@ export default defineConfig({
         preserveSymlinks: true
     },
     build: {
+        emptyOutDir: true,
+        outDir: resolve(__dirname, "dist"),
         rollupOptions: {
             input: {
-                main: resolve(__dirname, "index.html"),
-                ...Object.fromEntries(years.map(y => [`ioi-${y}`, resolve(__dirname, `ioi-${y}/index.html`)])),
+                main: resolve(__dirname, "src/index.html"),
+                ...Object.fromEntries(years.map(y => [`ioi-${y}`, resolve(__dirname, `src/ioi-${y}/index.html`)])),
             },
         },
     },
