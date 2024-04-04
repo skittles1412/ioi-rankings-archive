@@ -14,7 +14,7 @@ function patchHtmlPlugin() {
                 return;
             }
 
-            return src.replaceAll("%YEAR-efbe4cb20d823f09e43b742be27a29aa96263cf1f03fc1b3641247a6b86b32da%", year);
+            return src.replaceAll("%YEAR-efbe%", year);
         }
     }
 }
