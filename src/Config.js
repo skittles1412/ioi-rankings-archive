@@ -78,7 +78,7 @@ export default new function () {
             t_key = "IRN";
         }
 
-        return "../flags/" + t_key + ".png";
+        return "../flags-c76d8b51cddaf48f/" + t_key + ".png";
     };
 
     self.get_face_url = function (u_key) {
