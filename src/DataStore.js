@@ -38,8 +38,8 @@ export default new function () {
     var self = this;
 
     // MODIFICATION
-    // self.year = $("meta[name=ioi-year]").attr("content");
-    self.year = window.location.href.match(/ioi-(\d+)/)[1];
+    self.year = $("meta[name=ioi-year]").attr("content");
+    // self.year = window.location.href.match(/ioi-(\d+)/)[1];
     window.document.title = `IOI ${self.year} Rankings`;
 
     self.contests = new Object();
