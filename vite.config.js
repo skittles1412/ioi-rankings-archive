@@ -17,6 +17,13 @@ export default defineConfig({
                 main: resolve(__dirname, "src/index.html"),
                 ...Object.fromEntries(years.map(y => [`ioi-${y}`, resolve(__dirname, `src/ioi-${y}/index.html`)])),
             },
+            output: {
+                manualChunks: {
+                    jquery: ["jquery"],
+                    raphael: ["raphael"],
+                    stats: [resolve(__dirname, "src/stats.json")]
+                }
+            }
         },
     },
 });
