@@ -31,27 +31,33 @@ const config = {
 const years = [2017, 2019, 2020, 2021, 2022, 2023];
 
 function patchHtmlPlugin() {
+    function transformIndexHtml(src, path) {
+        const year = path.match(/\/ioi-(\d{4})\/index.html$/)?.[1];
+
+        if (year == undefined) {
+            return;
+        }
+
+        function replace(key, value) {
+            src = src.replaceAll(`%${key.toUpperCase()}%`, value);
+        }
+
+        replace("year", year);
+        for (const [key, value] of Object.entries(config[year])) {
+            replace(key, value);
+        }
+
+        return src;
+    }
+
     return {
         name: "patch-ioi-html",
 
         transformIndexHtml(src, ctx) {
-            const year = ctx.path.match(/^\/ioi-(\d{4})\/index.html$/)?.[1];
+            return transformIndexHtml(src, ctx.path);
+        },
 
-            if (year == undefined) {
-                return;
-            }
-
-            function replace(key, value) {
-                src = src.replaceAll(`%${key.toUpperCase()}%`, value);
-            }
-
-            replace("year", year);
-            for (const [key, value] of Object.entries(config[year])) {
-                replace(key, value);
-            }
-
-            return src;
-        }
+        transform: transformIndexHtml,
     }
 }
 
