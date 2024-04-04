@@ -1,6 +1,33 @@
 import {resolve} from "path";
 import {defineConfig} from "vite";
 
+const config = {
+    "2017": {
+        favicon: "img/favicon.ico",
+        logo: "img/logo.svg",
+    },
+    "2019": {
+        favicon: "img/favicon.png",
+        logo: "img/logo.png",
+    },
+    "2020": {
+        favicon: "img/favicon.ico",
+        logo: "img/logo.png",
+    },
+    "2021": {
+        favicon: "img/favicon.ico",
+        logo: "img/logo.png",
+    },
+    "2022": {
+        favicon: "img/favicon.png",
+        logo: "img/logo.png",
+    },
+    "2023": {
+        favicon: "img/favicon.png",
+        logo: "img/logo.png",
+    }
+};
+
 const years = [2017, 2019, 2020, 2021, 2022, 2023];
 
 function patchHtmlPlugin() {
@@ -14,7 +41,16 @@ function patchHtmlPlugin() {
                 return;
             }
 
-            return src.replaceAll("%YEAR-efbe%", year);
+            function replace(key, value) {
+                src = src.replaceAll(`%${key.toUpperCase()}%`, value);
+            }
+
+            replace("year", year);
+            for (const [key, value] of Object.entries(config[year])) {
+                replace(key, value);
+            }
+
+            return src;
         }
     }
 }
