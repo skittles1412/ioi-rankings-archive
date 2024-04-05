@@ -62,6 +62,7 @@ function patchHtmlPlugin() {
 }
 
 export default defineConfig({
+    appType: "mpa",
     plugins: [patchHtmlPlugin()],
     root: resolve(__dirname, "src"),
     resolve: {
@@ -74,6 +75,7 @@ export default defineConfig({
         rollupOptions: {
             input: {
                 main: resolve(__dirname, "src/index.html"),
+                "404": resolve(__dirname, "src/404.html"),
                 ...Object.fromEntries(years.map(y => [`ioi-${y}`, resolve(__dirname, `src/ioi-${y}/index.html`)])),
             },
             output: {
