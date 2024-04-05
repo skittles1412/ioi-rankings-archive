@@ -19,7 +19,7 @@ import $ from "jquery";
 import DataStore, {round_to_str} from "./DataStore.js";
 import { format_time } from "./TimeView.js";
 import HistoryStore from "./HistoryStore.js";
-import Config from "./Config.js";
+import Config, { MEDAL_BOUNDARIES } from "./Config.js";
 import Chart from "./Chart.js";
 
 // format_time is defined in TimeView
@@ -305,14 +305,16 @@ export default new function () {
             [max_score*1/4, // markers
              max_score*2/4,
              max_score*3/4]);
+
+        const {gold, silver, bronze} = MEDAL_BOUNDARIES[DataStore.year];
         Chart.draw_chart(self.rank_chart, // canvas object
             users, 1, 1, users-1, // y_min, y_max, x_default, h_default
             ranges, // intervals
             history_r, // data
             [210, 50, 50], // color
-            [Math.ceil (users/12), // markers
-             Math.ceil (users/4 ),
-             Math.floor(users/2 )]);
+            [gold, // markers
+             silver,
+             bronze]);
     };
 
     self.make_submission_table = function (task_id) {
