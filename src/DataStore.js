@@ -58,6 +58,37 @@ export default new function () {
     self.rank_events = $.Callbacks();
 
 
+    ////// Patch data.json
+    self.patch_data = function () {
+        (function addCumulativeScoreToSublists() {
+            for (const sublist of Object.values(window.data.sublist)) {
+                const subs_by_task = {};
+
+                for (const submission of sublist) {
+                    (subs_by_task[submission.task] ??= []).push(submission);
+                }
+
+                for (const [task_id, submissions] of Object.entries(subs_by_task)) {
+                    const extra_headers = self.tasks[task_id]['extra_headers'];
+
+                    // a bit hacky, we basically define cumulative score as the sum of prefix maximums across all subtasks
+                    // assumes that submission.extra always exists
+                    const n_subtasks = extra_headers.length;
+                    const subtask_scores = Array(n_subtasks).fill(0);
+
+                    for (const submission of Object.values(submissions)) {
+                        for (let i = 0; i < n_subtasks; i++) {
+                            subtask_scores[i] = Math.max(subtask_scores[i], submission.extra[i]);
+                        }
+
+                        submission.cumulative_score = subtask_scores.reduce((a, b) => a + b, 0);
+                    }
+                }
+            }
+        })();
+    };
+
+
     ////// Contest
 
     self.contest_count = 0;
@@ -466,6 +497,7 @@ export default new function () {
             delete old_user["rank"];
         });
 
+        self.patch_data();
         self.init_callback();
     };
 
@@ -520,7 +552,7 @@ export default new function () {
        - they also start an AJAX request and process its data
        - when BOTH requests finish init_scores() is called
        - it does again an AJAX request and processes its data
-       - at the end it calls init_ranks() which calls init_callback()
+       - at the end it calls init_ranks() which calls patch_data() and then init_callback()
        - Subsequently, when TeamStore is initialized, we call init_selections().
      */
 
