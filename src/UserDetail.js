@@ -324,7 +324,6 @@ export default new function () {
         <tr> \
             <td>Time</td> \
             <td>Score</td> \
-            <td>Token</td> \
             " + (DataStore.tasks[task_id]['extra_headers'].length > 0 ? "<td>" + DataStore.tasks[task_id]['extra_headers'].join("</td><td>") + "</td>" : "") + " \
         </tr> \
     </thead> \
@@ -344,7 +343,6 @@ export default new function () {
         <tr> \
             <td>" + time + "</td> \
             <td>" + round_to_str(submission['score'], DataStore.tasks[task_id]['score_precision']) + "</td> \
-            <td>" + (submission["token"] ? 'Yes' : 'No') + "</td> \
             " + (submission["extra"].length > 0 ? "<td>" + submission["extra"].join("</td><td>") + "</td>" : "") + " \
         </tr>";
             }
