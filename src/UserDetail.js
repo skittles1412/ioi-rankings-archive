@@ -318,13 +318,17 @@ export default new function () {
     };
 
     self.make_submission_table = function (task_id) {
+        const extra_headers = DataStore.tasks[task_id]['extra_headers'];
+        const score_precision = DataStore.tasks[task_id]['score_precision'];
+
         var res = " \
 <table> \
     <thead> \
         <tr> \
             <td>Time</td> \
             <td>Score</td> \
-            " + (DataStore.tasks[task_id]['extra_headers'].length > 0 ? "<td>" + DataStore.tasks[task_id]['extra_headers'].join("</td><td>") + "</td>" : "") + " \
+            <td>Cumulative Score</td>\
+            " + (extra_headers.length > 0 ? "<td>" + extra_headers.join("</td><td>") + "</td>" : "") + " \
         </tr> \
     </thead> \
     <tbody>";
@@ -335,14 +339,14 @@ export default new function () {
             <td colspan=\"" + (3 + DataStore.tasks[task_id]['extra_headers'].length) + "\">no submissions</td> \
         </tr>";
         } else {
-            for (var i in self.submissions[task_id]) {
-                var submission = self.submissions[task_id][i];
+            for (const submission of Object.values(self.submissions[task_id])) {
                 var time = submission["time"] - DataStore.contests[DataStore.tasks[task_id]["contest"]]["begin"];
                 time = format_time(time);
                 res += " \
         <tr> \
             <td>" + time + "</td> \
-            <td>" + round_to_str(submission['score'], DataStore.tasks[task_id]['score_precision']) + "</td> \
+            <td>" + round_to_str(submission['score'], score_precision) + "</td> \
+            <td>" + round_to_str(submission.cumulative_score, score_precision) + "</td>\
             " + (submission["extra"].length > 0 ? "<td>" + submission["extra"].join("</td><td>") + "</td>" : "") + " \
         </tr>";
             }
