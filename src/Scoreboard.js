@@ -240,7 +240,7 @@ export default new function () {
         var result = " \
 <tr class=\"user" + (user["selected"] > 0 ? " selected color" + user["selected"] : "") + "\" data-user=\"" + user["key"] + "\"> \
     <td class=\"sel\"></td> \
-    <td class=\"rank medal-" + Config.get_medal(user["rank"]) + "\">" + user["rank"] + "</td> \
+    <td class=\"rank medal-" + Config.get_medal(user["rank"]) + "\">" + self.format_rank(user) + "</td> \
     <td colspan=\"10\" class=\"f_name\">" + escapeHTML(user["f_name"]) + "</td> \
     <td colspan=\"10\" class=\"l_name\">" + escapeHTML(user["l_name"]) + "</td> \
     <td class=\"user_id\">" + user["display_key"] + "</td>";
@@ -369,6 +369,28 @@ export default new function () {
     };
 
 
+    // Get the rank for the current scoreboard order
+    self.get_local_rank = function (user) {
+        const sort_key = self.sort_key;
+        return self.user_list.filter(u => u[sort_key] > user[sort_key]).length + 1;
+    }
+
+    // Get what the rank should look like for the given user
+    self.format_rank = function (user) {
+        const global_rank = user.rank, local_rank = self.get_local_rank(user);
+
+        if (global_rank === local_rank) {
+            return global_rank.toString();
+        } else {
+            return `${local_rank} (${global_rank})`;
+        }
+    }
+
+    // Update the rank cell for the given user
+    self.update_rank = function (user) {
+        $(user.row).find(".rank").text(self.format_rank(user));
+    }
+
     // Sort the scoreboard using the column with the given index.
     self.sort = function () {
         var list = self.user_list;
@@ -376,10 +398,10 @@ export default new function () {
         list.sort(self.compare_users);
 
         var fragment = document.createDocumentFragment();
-        for (var idx in list)
-        {
-            list[idx]["index"] = idx;
-            fragment.appendChild(list[idx]["row"]);
+        for (const [idx, user] of list.entries()) {
+            user["index"] = idx;
+            fragment.appendChild(user["row"]);
+            self.update_rank(user);
         }
 
         self.tbody_el.append(fragment);
@@ -484,7 +506,7 @@ export default new function () {
     self.rank_handler = function (u_id, user) {
         var $row = $(user["row"]);
 
-        $row.children("td.rank").text(user["rank"]);
+        $row.children("td.rank").text(self.format_rank(user));
     };
 
 
