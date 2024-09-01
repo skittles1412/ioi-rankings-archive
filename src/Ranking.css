@@ -407,7 +407,7 @@ abbr {
 }
 
 #Scoreboard_cols col.rank {
-    width: 48px;
+    width: 80px;
 }
 
 #Scoreboard_cols col.user_id {
