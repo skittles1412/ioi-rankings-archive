@@ -131,8 +131,14 @@ export default new function () {
     }
 
     self.create_contest = function (key, data) {
-        // MODIFICATION: delete the IOI yyyy prefix of the day displays
-        data.name = data.name.replaceAll(/^IOI \d+ /g, "");
+        // MODIFICATION: make the names of each day either "Day 1" or "Day 2"
+        const isDay1 = /day\s*1/i.test(data.name);
+        const isDay2 = /day\s*2/i.test(data.name);
+        if (isDay1 === isDay2) {
+            throw new Error(`can't parse which contest day it is: ${data}`);
+        }
+
+        data.name = isDay1 ? "Day 1" : "Day 2";
 
         data["key"] = key;
         self.contests[key] = data;
