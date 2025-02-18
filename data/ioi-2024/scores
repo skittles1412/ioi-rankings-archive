@@ -1,0 +1,2691 @@
+{
+    "can2": {
+        "sphinx": 82.0,
+        "hieroglyphs": 3.0,
+        "mosaic": 100.0,
+        "message": 79.64,
+        "tree": 59.0,
+        "nile": 100.0
+    },
+    "idn3": {
+        "message": 61.19,
+        "mosaic": 78.0,
+        "hieroglyphs": 19.0,
+        "nile": 100.0,
+        "tree": 17.0,
+        "sphinx": 47.5
+    },
+    "zaf4": {
+        "tree": 10.0,
+        "sphinx": 28.5,
+        "mosaic": 37.0,
+        "nile": 67.0
+    },
+    "est4": {
+        "nile": 6.0,
+        "sphinx": 10.0,
+        "mosaic": 70.0,
+        "hieroglyphs": 3.0,
+        "tree": 10.0
+    },
+    "aze4": {
+        "tree": 10.0,
+        "mosaic": 37.0,
+        "hieroglyphs": 3.0,
+        "nile": 67.0,
+        "sphinx": 26.5,
+        "message": 29.31
+    },
+    "lva3": {
+        "mosaic": 51.0,
+        "message": 25.73,
+        "nile": 23.0,
+        "sphinx": 10.0,
+        "hieroglyphs": 3.0
+    },
+    "sau1": {
+        "message": 40.65,
+        "sphinx": 20.5,
+        "hieroglyphs": 3.0,
+        "mosaic": 78.0,
+        "nile": 82.0,
+        "tree": 10.0
+    },
+    "lby3": {
+        "hieroglyphs": 3.0,
+        "mosaic": 12.0
+    },
+    "mng3": {
+        "sphinx": 26.5,
+        "mosaic": 37.0,
+        "hieroglyphs": 3.0,
+        "nile": 67.0
+    },
+    "bih1": {
+        "nile": 67.0,
+        "message": 30.33,
+        "sphinx": 10.0,
+        "mosaic": 59.0,
+        "tree": 10.0
+    },
+    "ioi24": {
+        "message": 47.63,
+        "mosaic": 59.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 20.5,
+        "nile": 100.0,
+        "tree": 10.0
+    },
+    "zaf2": {
+        "mosaic": 78.0,
+        "nile": 100.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 40.5,
+        "message": 51.7,
+        "tree": 10.0
+    },
+    "chl1": {
+        "nile": 23.0,
+        "message": 29.31,
+        "mosaic": 37.0,
+        "tree": 10.0,
+        "sphinx": 21.5,
+        "hieroglyphs": 3.0
+    },
+    "idn2": {
+        "message": 56.2,
+        "nile": 100.0,
+        "sphinx": 47.5,
+        "hieroglyphs": 3.0,
+        "tree": 59.0,
+        "mosaic": 37.0
+    },
+    "hun3": {
+        "tree": 10.0,
+        "nile": 100.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 43.0,
+        "mosaic": 29.0,
+        "message": 10.0
+    },
+    "slv2": {
+        "mosaic": 37.0,
+        "nile": 6.0,
+        "sphinx": 47.5,
+        "hieroglyphs": 3.0
+    },
+    "ioi32": {
+        "sphinx": 64.0,
+        "mosaic": 78.0,
+        "hieroglyphs": 3.0,
+        "message": 53.89,
+        "tree": 10.0,
+        "nile": 100.0
+    },
+    "pak4": {
+        "message": 43.97,
+        "hieroglyphs": 3.0,
+        "sphinx": 19.5,
+        "tree": 10.0,
+        "mosaic": 37.0,
+        "nile": 67.0
+    },
+    "ind2": {
+        "mosaic": 78.0,
+        "tree": 41.0,
+        "sphinx": 64.0,
+        "nile": 82.0,
+        "hieroglyphs": 3.0,
+        "message": 58.64
+    },
+    "tjk4": {
+        "mosaic": 37.0,
+        "tree": 10.0,
+        "sphinx": 26.5,
+        "nile": 82.0,
+        "hieroglyphs": 3.0,
+        "message": 29.31
+    },
+    "deu1": {
+        "tree": 17.0,
+        "message": 58.64,
+        "hieroglyphs": 3.0,
+        "sphinx": 3.0,
+        "mosaic": 100.0,
+        "nile": 82.0
+    },
+    "mex1": {
+        "sphinx": 43.0,
+        "message": 30.33,
+        "mosaic": 59.0,
+        "tree": 10.0,
+        "nile": 67.0,
+        "hieroglyphs": 3.0
+    },
+    "egy22": {
+        "mosaic": 37.0,
+        "hieroglyphs": 3.0,
+        "tree": 48.0,
+        "sphinx": 47.5,
+        "message": 53.89,
+        "nile": 100.0
+    },
+    "tha3": {
+        "hieroglyphs": 3.0,
+        "tree": 28.0,
+        "message": 33.71,
+        "nile": 82.0,
+        "mosaic": 37.0,
+        "sphinx": 64.0
+    },
+    "fin1": {
+        "sphinx": 64.0,
+        "message": 51.7,
+        "nile": 100.0,
+        "mosaic": 100.0,
+        "tree": 17.0,
+        "hieroglyphs": 3.0
+    },
+    "gbr4": {
+        "hieroglyphs": 3.0,
+        "nile": 82.0,
+        "message": 30.33,
+        "tree": 10.0,
+        "sphinx": 43.0,
+        "mosaic": 37.0
+    },
+    "tjk1": {
+        "nile": 67.0,
+        "mosaic": 37.0,
+        "tree": 10.0,
+        "hieroglyphs": 19.0,
+        "sphinx": 26.5
+    },
+    "ind3": {
+        "tree": 28.0,
+        "mosaic": 78.0,
+        "sphinx": 47.5,
+        "nile": 82.0,
+        "hieroglyphs": 3.0,
+        "message": 72.85
+    },
+    "egy23": {
+        "message": 53.89,
+        "hieroglyphs": 17.0,
+        "nile": 82.0,
+        "mosaic": 37.0,
+        "sphinx": 47.5,
+        "tree": 23.0
+    },
+    "mac3": {
+        "mosaic": 100.0,
+        "nile": 100.0,
+        "sphinx": 3.0,
+        "message": 30.33,
+        "hieroglyphs": 3.0,
+        "tree": 10.0
+    },
+    "nor3": {
+        "nile": 36.0,
+        "message": 10.0,
+        "mosaic": 29.0,
+        "hieroglyphs": 3.0
+    },
+    "tkm4": {
+        "sphinx": 18.0,
+        "nile": 17.0,
+        "mosaic": 29.0,
+        "hieroglyphs": 3.0
+    },
+    "hkg3": {
+        "mosaic": 100.0,
+        "sphinx": 47.5,
+        "message": 29.31,
+        "hieroglyphs": 3.0,
+        "nile": 100.0,
+        "tree": 10.0
+    },
+    "mda2": {
+        "hieroglyphs": 3.0,
+        "tree": 17.0,
+        "mosaic": 78.0,
+        "nile": 82.0,
+        "message": 61.19,
+        "sphinx": 64.0
+    },
+    "lby1": {
+        "hieroglyphs": 3.0,
+        "tree": 10.0,
+        "mosaic": 59.0,
+        "nile": 36.0,
+        "sphinx": 19.5
+    },
+    "pol1": {
+        "tree": 100.0,
+        "hieroglyphs": 3.0,
+        "mosaic": 100.0,
+        "message": 91.22,
+        "sphinx": 82.0,
+        "nile": 100.0
+    },
+    "tha4": {
+        "nile": 100.0,
+        "mosaic": 59.0,
+        "tree": 28.0,
+        "message": 56.2,
+        "sphinx": 47.5,
+        "hieroglyphs": 3.0
+    },
+    "cyp3": {
+        "tree": 30.0,
+        "sphinx": 31.0,
+        "nile": 82.0,
+        "mosaic": 78.0,
+        "hieroglyphs": 3.0,
+        "message": 43.97
+    },
+    "dnk2": {
+        "message": 29.31,
+        "sphinx": 18.0,
+        "hieroglyphs": 13.0,
+        "mosaic": 19.0,
+        "nile": 100.0
+    },
+    "pse2": {
+        "mosaic": 37.0,
+        "hieroglyphs": 3.0,
+        "message": 29.31,
+        "sphinx": 26.5,
+        "tree": 10.0,
+        "nile": 67.0
+    },
+    "isr4": {
+        "message": 66.72,
+        "sphinx": 100.0,
+        "nile": 67.0,
+        "tree": 10.0
+    },
+    "bgr4": {
+        "hieroglyphs": 3.0,
+        "mosaic": 78.0,
+        "tree": 48.0,
+        "nile": 100.0,
+        "message": 29.31,
+        "sphinx": 31.0
+    },
+    "ita3": {
+        "sphinx": 26.5,
+        "tree": 48.0,
+        "nile": 51.0,
+        "mosaic": 100.0,
+        "message": 43.97,
+        "hieroglyphs": 3.0
+    },
+    "kor1": {
+        "hieroglyphs": 3.0,
+        "sphinx": 31.0,
+        "tree": 59.0,
+        "message": 53.89,
+        "mosaic": 100.0,
+        "nile": 100.0
+    },
+    "can3": {
+        "message": 87.17,
+        "hieroglyphs": 3.0,
+        "tree": 59.0,
+        "mosaic": 100.0,
+        "sphinx": 64.0,
+        "nile": 100.0
+    },
+    "grc2": {
+        "hieroglyphs": 3.0,
+        "nile": 100.0,
+        "message": 56.2,
+        "tree": 17.0,
+        "mosaic": 70.0,
+        "sphinx": 40.5
+    },
+    "chn1": {
+        "message": 0.0,
+        "mosaic": 0.0,
+        "sphinx": 0.0,
+        "tree": 0.0,
+        "nile": 0.0,
+        "hieroglyphs": 0.0
+    },
+    "bgd4": {
+        "hieroglyphs": 3.0,
+        "mosaic": 37.0,
+        "nile": 67.0,
+        "tree": 10.0,
+        "sphinx": 43.0
+    },
+    "ukr4": {
+        "tree": 10.0,
+        "sphinx": 53.5,
+        "message": 40.65,
+        "hieroglyphs": 3.0,
+        "nile": 100.0,
+        "mosaic": 100.0
+    },
+    "nld1": {
+        "nile": 67.0,
+        "sphinx": 47.5,
+        "mosaic": 100.0,
+        "message": 43.97,
+        "tree": 10.0,
+        "hieroglyphs": 3.0
+    },
+    "kaz2": {
+        "nile": 100.0,
+        "mosaic": 78.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 37.0,
+        "tree": 28.0,
+        "message": 61.19
+    },
+    "egy1": {
+        "tree": 23.0,
+        "sphinx": 32.0,
+        "message": 56.2,
+        "mosaic": 37.0,
+        "hieroglyphs": 3.0,
+        "nile": 100.0
+    },
+    "che3": {
+        "mosaic": 100.0,
+        "sphinx": 43.0,
+        "tree": 17.0,
+        "nile": 67.0,
+        "hieroglyphs": 3.0
+    },
+    "pol4": {
+        "mosaic": 100.0,
+        "tree": 23.0,
+        "sphinx": 100.0,
+        "message": 49.84,
+        "nile": 100.0,
+        "hieroglyphs": 17.0
+    },
+    "est3": {
+        "mosaic": 78.0,
+        "nile": 82.0,
+        "sphinx": 47.5,
+        "message": 29.31,
+        "hieroglyphs": 3.0,
+        "tree": 30.0
+    },
+    "usa1": {
+        "tree": 100.0,
+        "nile": 100.0,
+        "mosaic": 100.0,
+        "hieroglyphs": 3.0,
+        "message": 31.4,
+        "sphinx": 100.0
+    },
+    "bih3": {
+        "sphinx": 26.5,
+        "tree": 10.0,
+        "nile": 36.0,
+        "mosaic": 59.0,
+        "message": 29.31,
+        "hieroglyphs": 3.0
+    },
+    "arg1": {
+        "mosaic": 70.0,
+        "message": 56.2,
+        "nile": 100.0,
+        "sphinx": 47.5,
+        "hieroglyphs": 3.0,
+        "tree": 10.0
+    },
+    "pak2": {
+        "mosaic": 37.0,
+        "tree": 10.0,
+        "sphinx": 47.5,
+        "nile": 82.0,
+        "hieroglyphs": 3.0,
+        "message": 30.33
+    },
+    "pak1": {
+        "nile": 82.0,
+        "hieroglyphs": 3.0,
+        "mosaic": 100.0,
+        "tree": 10.0,
+        "message": 45.75
+    },
+    "isr3": {
+        "message": 63.88,
+        "tree": 48.0,
+        "hieroglyphs": 3.0,
+        "mosaic": 100.0,
+        "nile": 100.0,
+        "sphinx": 82.0
+    },
+    "mys4": {
+        "tree": 41.0,
+        "nile": 82.0,
+        "mosaic": 78.0,
+        "message": 10.0,
+        "sphinx": 20.5,
+        "hieroglyphs": 3.0
+    },
+    "arm1": {
+        "mosaic": 78.0,
+        "tree": 17.0,
+        "sphinx": 47.5,
+        "hieroglyphs": 3.0,
+        "nile": 67.0,
+        "message": 10.0
+    },
+    "bra2": {
+        "mosaic": 37.0,
+        "message": 58.64,
+        "nile": 82.0,
+        "tree": 13.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 64.0
+    },
+    "mar3": {
+        "mosaic": 27.0,
+        "nile": 23.0,
+        "hieroglyphs": 3.0
+    },
+    "twn4": {
+        "sphinx": 31.0,
+        "message": 72.85,
+        "tree": 10.0,
+        "nile": 100.0,
+        "mosaic": 70.0,
+        "hieroglyphs": 3.0
+    },
+    "ioi34": {
+        "hieroglyphs": 3.0,
+        "message": 61.19,
+        "mosaic": 78.0,
+        "nile": 100.0,
+        "sphinx": 20.5,
+        "tree": 10.0
+    },
+    "irn1": {
+        "mosaic": 59.0,
+        "message": 53.89,
+        "sphinx": 28.5,
+        "nile": 100.0,
+        "tree": 30.0
+    },
+    "arg4": {
+        "mosaic": 37.0,
+        "nile": 23.0,
+        "sphinx": 26.5
+    },
+    "dza4": {
+        "nile": 6.0
+    },
+    "srb4": {
+        "message": 36.28,
+        "mosaic": 59.0,
+        "tree": 10.0,
+        "sphinx": 37.0,
+        "hieroglyphs": 3.0,
+        "nile": 82.0
+    },
+    "tkm2": {
+        "mosaic": 30.0,
+        "sphinx": 3.0,
+        "nile": 36.0,
+        "hieroglyphs": 3.0,
+        "tree": 10.0
+    },
+    "cub2": {
+        "message": 49.61,
+        "nile": 82.0,
+        "mosaic": 51.0,
+        "sphinx": 47.5,
+        "tree": 10.0
+    },
+    "nld4": {
+        "mosaic": 100.0,
+        "sphinx": 20.5,
+        "nile": 67.0,
+        "hieroglyphs": 3.0,
+        "message": 87.17
+    },
+    "gbr1": {
+        "sphinx": 26.5,
+        "hieroglyphs": 3.0,
+        "message": 39.120000000000005,
+        "mosaic": 100.0,
+        "nile": 100.0,
+        "tree": 10.0
+    },
+    "phl3": {
+        "mosaic": 59.0,
+        "message": 29.31,
+        "nile": 82.0,
+        "sphinx": 10.0
+    },
+    "tur4": {
+        "mosaic": 78.0,
+        "message": 49.61,
+        "nile": 82.0,
+        "sphinx": 47.5,
+        "hieroglyphs": 3.0
+    },
+    "mkd2": {
+        "sphinx": 26.5,
+        "mosaic": 59.0,
+        "hieroglyphs": 3.0,
+        "tree": 10.0,
+        "nile": 67.0,
+        "message": 29.31
+    },
+    "kgz3": {
+        "tree": 17.0,
+        "message": 36.28,
+        "mosaic": 100.0,
+        "nile": 82.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 64.0
+    },
+    "cyp2": {
+        "tree": 17.0,
+        "sphinx": 37.0,
+        "nile": 67.0,
+        "mosaic": 37.0,
+        "hieroglyphs": 3.0,
+        "message": 29.31
+    },
+    "ukr2": {
+        "message": 53.89,
+        "sphinx": 64.0,
+        "mosaic": 78.0,
+        "tree": 23.0,
+        "hieroglyphs": 3.0,
+        "nile": 100.0
+    },
+    "hkg1": {
+        "tree": 59.0,
+        "sphinx": 47.5,
+        "mosaic": 100.0,
+        "message": 66.72,
+        "nile": 100.0,
+        "hieroglyphs": 3.0
+    },
+    "fin4": {
+        "message": 29.31,
+        "sphinx": 10.0,
+        "hieroglyphs": 3.0,
+        "mosaic": 30.0,
+        "nile": 23.0
+    },
+    "srb3": {
+        "message": 47.63,
+        "nile": 82.0,
+        "mosaic": 100.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 10.0
+    },
+    "idn1": {
+        "hieroglyphs": 3.0,
+        "tree": 100.0,
+        "message": 53.89,
+        "sphinx": 31.0,
+        "mosaic": 37.0,
+        "nile": 100.0
+    },
+    "deu2": {
+        "message": 47.63,
+        "nile": 100.0,
+        "mosaic": 78.0,
+        "tree": 10.0,
+        "sphinx": 47.5,
+        "hieroglyphs": 3.0
+    },
+    "arm3": {
+        "tree": 10.0,
+        "hieroglyphs": 17.0,
+        "mosaic": 37.0,
+        "sphinx": 37.0,
+        "nile": 82.0,
+        "message": 30.33
+    },
+    "fra4": {
+        "sphinx": 3.0,
+        "message": 51.7,
+        "nile": 82.0,
+        "mosaic": 100.0,
+        "tree": 48.0,
+        "hieroglyphs": 3.0
+    },
+    "aze1": {
+        "hieroglyphs": 13.0,
+        "mosaic": 59.0,
+        "tree": 41.0,
+        "nile": 67.0,
+        "message": 30.33
+    },
+    "aze2": {
+        "tree": 41.0,
+        "sphinx": 47.5,
+        "hieroglyphs": 3.0,
+        "mosaic": 37.0,
+        "nile": 82.0,
+        "message": 49.61
+    },
+    "dza1": {
+        "sphinx": 10.0,
+        "mosaic": 78.0,
+        "message": 43.97,
+        "nile": 82.0,
+        "hieroglyphs": 3.0
+    },
+    "tur2": {
+        "tree": 10.0,
+        "message": 61.19,
+        "sphinx": 47.5,
+        "nile": 100.0,
+        "mosaic": 100.0,
+        "hieroglyphs": 3.0
+    },
+    "egy3": {
+        "tree": 23.0,
+        "nile": 100.0,
+        "sphinx": 26.5,
+        "message": 53.89,
+        "hieroglyphs": 3.0,
+        "mosaic": 59.0
+    },
+    "lka2": {
+        "hieroglyphs": 3.0,
+        "nile": 67.0,
+        "sphinx": 26.5,
+        "mosaic": 37.0,
+        "tree": 10.0,
+        "message": 29.31
+    },
+    "bgd1": {
+        "message": 47.63,
+        "nile": 100.0,
+        "tree": 41.0,
+        "sphinx": 82.0,
+        "mosaic": 100.0,
+        "hieroglyphs": 3.0
+    },
+    "bel1": {
+        "mosaic": 29.0,
+        "tree": 10.0,
+        "message": 49.61,
+        "nile": 36.0,
+        "sphinx": 19.5,
+        "hieroglyphs": 3.0
+    },
+    "tun3": {
+        "tree": 10.0,
+        "nile": 36.0,
+        "message": 10.0,
+        "sphinx": 26.5,
+        "mosaic": 37.0,
+        "hieroglyphs": 3.0
+    },
+    "ltu3": {
+        "sphinx": 10.0,
+        "nile": 82.0,
+        "message": 43.97,
+        "mosaic": 37.0,
+        "hieroglyphs": 3.0,
+        "tree": 10.0
+    },
+    "che2": {
+        "hieroglyphs": 3.0,
+        "message": 72.85,
+        "tree": 17.0,
+        "sphinx": 26.5,
+        "mosaic": 78.0,
+        "nile": 82.0
+    },
+    "mda3": {
+        "message": 61.19,
+        "mosaic": 70.0,
+        "nile": 51.0,
+        "hieroglyphs": 3.0,
+        "tree": 10.0
+    },
+    "cyp4": {
+        "nile": 17.0,
+        "sphinx": 26.5,
+        "tree": 17.0,
+        "mosaic": 59.0,
+        "message": 29.31,
+        "hieroglyphs": 3.0
+    },
+    "dnk3": {
+        "message": 51.7,
+        "tree": 10.0,
+        "sphinx": 47.5,
+        "mosaic": 78.0,
+        "nile": 34.0,
+        "hieroglyphs": 3.0
+    },
+    "vnm4": {
+        "sphinx": 64.0,
+        "tree": 59.0,
+        "nile": 100.0,
+        "hieroglyphs": 18.0,
+        "mosaic": 100.0,
+        "message": 33.71
+    },
+    "nor4": {
+        "sphinx": 3.0,
+        "mosaic": 37.0,
+        "message": 43.97,
+        "hieroglyphs": 3.0
+    },
+    "ioi12": {
+        "mosaic": 100.0,
+        "message": 87.17,
+        "nile": 100.0,
+        "tree": 41.0,
+        "sphinx": 71.5,
+        "hieroglyphs": 17.0
+    },
+    "nld3": {
+        "tree": 10.0,
+        "mosaic": 19.0,
+        "nile": 23.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 10.0,
+        "message": 10.0
+    },
+    "lux2": {
+        "mosaic": 37.0,
+        "nile": 67.0,
+        "sphinx": 37.0,
+        "hieroglyphs": 3.0,
+        "message": 43.97
+    },
+    "kgz1": {
+        "message": 29.31,
+        "hieroglyphs": 17.0,
+        "mosaic": 78.0,
+        "sphinx": 26.5,
+        "nile": 100.0,
+        "tree": 41.0
+    },
+    "tur3": {
+        "tree": 41.0,
+        "hieroglyphs": 29.0,
+        "message": 56.2,
+        "mosaic": 100.0,
+        "nile": 100.0,
+        "sphinx": 64.0
+    },
+    "ioi33": {
+        "message": 63.88,
+        "tree": 23.0,
+        "mosaic": 100.0,
+        "sphinx": 64.0,
+        "nile": 100.0,
+        "hieroglyphs": 3.0
+    },
+    "twn2": {
+        "mosaic": 70.0,
+        "message": 34.97,
+        "nile": 82.0,
+        "sphinx": 64.0,
+        "hieroglyphs": 3.0,
+        "tree": 23.0
+    },
+    "ukr1": {
+        "tree": 23.0,
+        "message": 83.31,
+        "nile": 67.0,
+        "sphinx": 53.5,
+        "mosaic": 100.0
+    },
+    "cub3": {
+        "message": 10.0,
+        "tree": 10.0,
+        "mosaic": 59.0,
+        "hieroglyphs": 3.0
+    },
+    "rou4": {
+        "message": 53.89,
+        "sphinx": 64.0,
+        "mosaic": 78.0,
+        "nile": 100.0,
+        "hieroglyphs": 17.0,
+        "tree": 10.0
+    },
+    "bel3": {
+        "tree": 28.0,
+        "mosaic": 37.0,
+        "sphinx": 47.5,
+        "message": 10.0,
+        "nile": 47.0,
+        "hieroglyphs": 3.0
+    },
+    "mar1": {
+        "message": 69.71000000000001,
+        "tree": 17.0,
+        "sphinx": 26.5,
+        "mosaic": 100.0,
+        "nile": 67.0,
+        "hieroglyphs": 3.0
+    },
+    "nld2": {
+        "nile": 23.0,
+        "message": 29.31,
+        "tree": 17.0,
+        "mosaic": 41.0,
+        "sphinx": 40.5,
+        "hieroglyphs": 3.0
+    },
+    "gbr2": {
+        "nile": 100.0,
+        "sphinx": 82.0,
+        "tree": 59.0,
+        "hieroglyphs": 3.0,
+        "mosaic": 100.0,
+        "message": 51.7
+    },
+    "idn4": {
+        "sphinx": 26.5,
+        "mosaic": 59.0,
+        "message": 29.31,
+        "nile": 100.0,
+        "tree": 10.0,
+        "hieroglyphs": 3.0
+    },
+    "ind4": {
+        "sphinx": 26.5,
+        "tree": 28.0,
+        "hieroglyphs": 3.0,
+        "mosaic": 37.0,
+        "message": 49.61,
+        "nile": 100.0
+    },
+    "tun4": {
+        "mosaic": 37.0,
+        "nile": 19.0,
+        "hieroglyphs": 3.0,
+        "message": 34.97,
+        "sphinx": 10.0
+    },
+    "bel4": {
+        "message": 28.35,
+        "hieroglyphs": 3.0,
+        "nile": 23.0,
+        "mosaic": 37.0,
+        "sphinx": 19.5
+    },
+    "ioi13": {
+        "hieroglyphs": 13.0,
+        "message": 63.88,
+        "mosaic": 100.0,
+        "sphinx": 82.0,
+        "tree": 59.0,
+        "nile": 100.0
+    },
+    "pse3": {
+        "nile": 36.0,
+        "mosaic": 37.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 10.0
+    },
+    "jor3": {
+        "nile": 23.0,
+        "message": 29.31,
+        "mosaic": 20.0
+    },
+    "can1": {
+        "hieroglyphs": 3.0,
+        "sphinx": 37.0,
+        "mosaic": 37.0,
+        "nile": 82.0
+    },
+    "fra2": {
+        "nile": 82.0,
+        "message": 10.0,
+        "sphinx": 43.0,
+        "mosaic": 78.0,
+        "tree": 23.0,
+        "hieroglyphs": 3.0
+    },
+    "chn4": {
+        "message": 49.61,
+        "sphinx": 50.0,
+        "nile": 100.0,
+        "mosaic": 50.0,
+        "hieroglyphs": 14.0,
+        "tree": 59.0
+    },
+    "prt3": {
+        "nile": 17.0,
+        "mosaic": 51.0,
+        "sphinx": 19.5
+    },
+    "mys3": {
+        "sphinx": 31.0,
+        "nile": 100.0,
+        "hieroglyphs": 3.0,
+        "mosaic": 37.0,
+        "message": 42.27
+    },
+    "svn1": {
+        "mosaic": 100.0,
+        "message": 61.19,
+        "nile": 100.0,
+        "tree": 10.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 37.0
+    },
+    "syr2": {
+        "nile": 82.0,
+        "hieroglyphs": 3.0,
+        "tree": 28.0,
+        "mosaic": 37.0,
+        "sphinx": 26.5,
+        "message": 29.31
+    },
+    "usa3": {
+        "tree": 23.0,
+        "sphinx": 57.0,
+        "nile": 100.0,
+        "message": 51.7,
+        "hieroglyphs": 17.0,
+        "mosaic": 100.0
+    },
+    "rou3": {
+        "message": 72.85,
+        "tree": 41.0,
+        "hieroglyphs": 13.0,
+        "mosaic": 100.0,
+        "sphinx": 100.0,
+        "nile": 100.0
+    },
+    "ukr3": {
+        "tree": 10.0,
+        "message": 47.63,
+        "sphinx": 47.5,
+        "nile": 100.0,
+        "hieroglyphs": 3.0,
+        "mosaic": 78.0
+    },
+    "isl2": {
+        "sphinx": 10.0,
+        "mosaic": 19.0,
+        "message": 28.35,
+        "tree": 10.0,
+        "nile": 6.0,
+        "hieroglyphs": 3.0
+    },
+    "hrv3": {
+        "message": 72.85,
+        "sphinx": 28.5,
+        "hieroglyphs": 3.0,
+        "mosaic": 37.0,
+        "nile": 100.0,
+        "tree": 10.0
+    },
+    "swe4": {
+        "sphinx": 47.5,
+        "nile": 47.0,
+        "tree": 10.0,
+        "mosaic": 37.0
+    },
+    "rou2": {
+        "mosaic": 100.0,
+        "nile": 82.0,
+        "sphinx": 10.0,
+        "hieroglyphs": 3.0,
+        "message": 56.2
+    },
+    "tha1": {
+        "hieroglyphs": 3.0,
+        "nile": 100.0,
+        "tree": 10.0,
+        "mosaic": 100.0,
+        "message": 39.120000000000005,
+        "sphinx": 10.0
+    },
+    "uzb2": {
+        "nile": 100.0,
+        "sphinx": 43.0,
+        "mosaic": 37.0,
+        "tree": 10.0,
+        "message": 10.0,
+        "hieroglyphs": 3.0
+    },
+    "mng1": {
+        "message": 72.85,
+        "nile": 82.0,
+        "hieroglyphs": 3.0,
+        "mosaic": 100.0,
+        "sphinx": 10.0,
+        "tree": 10.0
+    },
+    "cub4": {
+        "nile": 23.0,
+        "mosaic": 37.0,
+        "sphinx": 31.0,
+        "hieroglyphs": 3.0
+    },
+    "col4": {
+        "mosaic": 29.0,
+        "hieroglyphs": 3.0,
+        "nile": 6.0,
+        "sphinx": 3.0
+    },
+    "mex3": {
+        "tree": 17.0,
+        "sphinx": 26.5,
+        "nile": 67.0,
+        "message": 30.33,
+        "hieroglyphs": 3.0,
+        "mosaic": 59.0
+    },
+    "srb1": {
+        "sphinx": 47.5,
+        "hieroglyphs": 19.0,
+        "nile": 100.0,
+        "tree": 23.0,
+        "mosaic": 29.0,
+        "message": 40.65
+    },
+    "aut1": {
+        "message": 83.31,
+        "mosaic": 100.0,
+        "tree": 17.0,
+        "nile": 100.0
+    },
+    "mng4": {
+        "hieroglyphs": 3.0,
+        "mosaic": 37.0,
+        "nile": 36.0,
+        "tree": 10.0,
+        "sphinx": 10.0
+    },
+    "alb1": {
+        "mosaic": 37.0,
+        "nile": 6.0
+    },
+    "jor4": {
+        "hieroglyphs": 3.0,
+        "mosaic": 29.0,
+        "nile": 36.0,
+        "sphinx": 26.5
+    },
+    "chl3": {
+        "sphinx": 23.0,
+        "mosaic": 37.0,
+        "tree": 17.0,
+        "nile": 23.0,
+        "hieroglyphs": 3.0
+    },
+    "sgp4": {
+        "nile": 100.0,
+        "hieroglyphs": 3.0,
+        "mosaic": 100.0,
+        "tree": 59.0,
+        "message": 47.63,
+        "sphinx": 37.0
+    },
+    "isr1": {
+        "sphinx": 64.0,
+        "tree": 41.0,
+        "message": 63.88,
+        "nile": 100.0,
+        "hieroglyphs": 3.0,
+        "mosaic": 100.0
+    },
+    "lux3": {
+        "mosaic": 37.0,
+        "sphinx": 3.0
+    },
+    "per3": {
+        "mosaic": 78.0,
+        "nile": 51.0,
+        "sphinx": 10.0,
+        "hieroglyphs": 3.0
+    },
+    "ioi21": {
+        "sphinx": 37.0,
+        "nile": 100.0,
+        "tree": 17.0,
+        "message": 29.31,
+        "mosaic": 37.0,
+        "hieroglyphs": 3.0
+    },
+    "nzl2": {
+        "nile": 82.0,
+        "mosaic": 59.0,
+        "sphinx": 47.5,
+        "message": 43.97,
+        "hieroglyphs": 3.0
+    },
+    "svk1": {
+        "tree": 59.0,
+        "message": 43.97,
+        "mosaic": 100.0,
+        "nile": 100.0,
+        "hieroglyphs": 34.0,
+        "sphinx": 82.0
+    },
+    "chl2": {
+        "mosaic": 22.0,
+        "nile": 6.0,
+        "message": 29.31,
+        "sphinx": 10.0,
+        "hieroglyphs": 3.0
+    },
+    "svn3": {
+        "nile": 67.0,
+        "hieroglyphs": 3.0,
+        "message": 43.97,
+        "mosaic": 37.0,
+        "tree": 10.0,
+        "sphinx": 26.5
+    },
+    "ltu4": {
+        "sphinx": 43.0,
+        "mosaic": 78.0,
+        "nile": 82.0,
+        "message": 10.0,
+        "tree": 10.0
+    },
+    "arg3": {
+        "message": 29.31,
+        "nile": 6.0,
+        "mosaic": 22.0,
+        "tree": 10.0,
+        "sphinx": 1.5
+    },
+    "bgr3": {
+        "message": 87.17,
+        "tree": 23.0,
+        "hieroglyphs": 3.0,
+        "mosaic": 100.0,
+        "sphinx": 64.0,
+        "nile": 67.0
+    },
+    "geo3": {
+        "hieroglyphs": 3.0,
+        "sphinx": 37.0,
+        "mosaic": 78.0,
+        "tree": 17.0,
+        "nile": 67.0
+    },
+    "hrv1": {
+        "hieroglyphs": 3.0,
+        "message": 40.65,
+        "mosaic": 37.0,
+        "sphinx": 64.0,
+        "tree": 10.0,
+        "nile": 100.0
+    },
+    "hkg4": {
+        "mosaic": 37.0,
+        "tree": 30.0,
+        "sphinx": 10.0,
+        "message": 29.31,
+        "nile": 100.0,
+        "hieroglyphs": 3.0
+    },
+    "sgp3": {
+        "hieroglyphs": 3.0,
+        "mosaic": 27.0,
+        "message": 31.4,
+        "nile": 100.0,
+        "sphinx": 10.0,
+        "tree": 59.0
+    },
+    "dom3": {
+        "mosaic": 12.0,
+        "sphinx": 3.0
+    },
+    "cub1": {
+        "tree": 10.0,
+        "hieroglyphs": 17.0,
+        "message": 28.35,
+        "nile": 67.0,
+        "sphinx": 31.0,
+        "mosaic": 22.0
+    },
+    "phl4": {
+        "message": 10.0,
+        "sphinx": 31.0,
+        "mosaic": 59.0,
+        "nile": 36.0,
+        "hieroglyphs": 3.0
+    },
+    "bol2": {
+        "message": 10.0,
+        "mosaic": 37.0,
+        "nile": 19.0,
+        "sphinx": 26.5,
+        "hieroglyphs": 3.0
+    },
+    "fra1": {
+        "nile": 67.0,
+        "mosaic": 100.0,
+        "sphinx": 100.0,
+        "message": 30.33,
+        "hieroglyphs": 17.0,
+        "tree": 28.0
+    },
+    "mac2": {
+        "mosaic": 37.0,
+        "sphinx": 47.5,
+        "nile": 47.0,
+        "tree": 10.0,
+        "hieroglyphs": 3.0,
+        "message": 10.0
+    },
+    "mex4": {
+        "nile": 47.0,
+        "mosaic": 78.0,
+        "sphinx": 26.5,
+        "hieroglyphs": 3.0,
+        "message": 30.33,
+        "tree": 10.0
+    },
+    "mng2": {
+        "message": 42.27,
+        "mosaic": 100.0,
+        "sphinx": 47.5,
+        "nile": 82.0,
+        "hieroglyphs": 3.0
+    },
+    "kgz4": {
+        "tree": 10.0,
+        "sphinx": 64.0,
+        "mosaic": 30.0,
+        "nile": 67.0,
+        "message": 29.31,
+        "hieroglyphs": 3.0
+    },
+    "twn1": {
+        "message": 49.61,
+        "mosaic": 78.0,
+        "tree": 59.0,
+        "nile": 82.0,
+        "sphinx": 82.0,
+        "hieroglyphs": 3.0
+    },
+    "srb2": {
+        "sphinx": 31.0,
+        "message": 79.64,
+        "mosaic": 100.0,
+        "hieroglyphs": 3.0,
+        "nile": 67.0,
+        "tree": 10.0
+    },
+    "phl2": {
+        "nile": 100.0,
+        "tree": 10.0,
+        "hieroglyphs": 3.0,
+        "mosaic": 59.0,
+        "message": 79.64,
+        "sphinx": 47.5
+    },
+    "bgr1": {
+        "tree": 59.0,
+        "mosaic": 78.0,
+        "nile": 100.0,
+        "sphinx": 64.0,
+        "hieroglyphs": 3.0,
+        "message": 49.61
+    },
+    "vnm1": {
+        "sphinx": 64.0,
+        "mosaic": 78.0,
+        "tree": 48.0,
+        "nile": 100.0,
+        "hieroglyphs": 3.0,
+        "message": 43.97
+    },
+    "deu4": {
+        "mosaic": 37.0,
+        "message": 56.2,
+        "nile": 67.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 10.0
+    },
+    "isl1": {
+        "tree": 10.0,
+        "mosaic": 29.0,
+        "nile": 47.0,
+        "sphinx": 26.5,
+        "hieroglyphs": 3.0
+    },
+    "grc3": {
+        "nile": 82.0,
+        "sphinx": 47.5,
+        "mosaic": 78.0,
+        "message": 51.7,
+        "tree": 10.0,
+        "hieroglyphs": 3.0
+    },
+    "hun4": {
+        "sphinx": 26.5,
+        "tree": 7.0,
+        "message": 56.2,
+        "hieroglyphs": 3.0,
+        "mosaic": 37.0,
+        "nile": 82.0
+    },
+    "hkg2": {
+        "hieroglyphs": 3.0,
+        "tree": 48.0,
+        "message": 61.19,
+        "nile": 100.0,
+        "mosaic": 51.0,
+        "sphinx": 26.5
+    },
+    "lva4": {
+        "hieroglyphs": 3.0,
+        "nile": 36.0,
+        "mosaic": 37.0,
+        "message": 51.7,
+        "sphinx": 3.0
+    },
+    "esp2": {
+        "mosaic": 100.0,
+        "hieroglyphs": 3.0,
+        "message": 83.31,
+        "nile": 100.0,
+        "sphinx": 40.5
+    },
+    "mys2": {
+        "sphinx": 64.0,
+        "nile": 100.0,
+        "tree": 28.0,
+        "hieroglyphs": 3.0,
+        "message": 49.61,
+        "mosaic": 100.0
+    },
+    "jpn2": {
+        "sphinx": 64.0,
+        "message": 87.17,
+        "nile": 100.0,
+        "hieroglyphs": 3.0,
+        "mosaic": 100.0,
+        "tree": 48.0
+    },
+    "geo4": {
+        "nile": 82.0,
+        "mosaic": 78.0,
+        "sphinx": 47.5,
+        "message": 28.35,
+        "tree": 10.0,
+        "hieroglyphs": 3.0
+    },
+    "che1": {
+        "tree": 10.0,
+        "mosaic": 37.0,
+        "hieroglyphs": 33.0,
+        "sphinx": 64.0,
+        "message": 51.7,
+        "nile": 100.0
+    },
+    "mda1": {
+        "nile": 82.0,
+        "mosaic": 78.0,
+        "sphinx": 26.5,
+        "tree": 10.0,
+        "hieroglyphs": 3.0
+    },
+    "swe2": {
+        "sphinx": 26.5,
+        "message": 47.63,
+        "hieroglyphs": 3.0,
+        "mosaic": 100.0,
+        "nile": 82.0,
+        "tree": 17.0
+    },
+    "irn2": {
+        "mosaic": 100.0,
+        "tree": 59.0,
+        "sphinx": 100.0,
+        "hieroglyphs": 3.0,
+        "nile": 100.0,
+        "message": 39.120000000000005
+    },
+    "hun2": {
+        "hieroglyphs": 3.0,
+        "sphinx": 47.5,
+        "mosaic": 78.0,
+        "message": 79.64,
+        "nile": 100.0
+    },
+    "esp3": {
+        "sphinx": 10.0,
+        "mosaic": 37.0,
+        "tree": 41.0,
+        "hieroglyphs": 3.0,
+        "nile": 100.0
+    },
+    "bra1": {
+        "mosaic": 100.0,
+        "message": 72.85,
+        "nile": 36.0,
+        "sphinx": 12.0,
+        "tree": 10.0
+    },
+    "arg2": {
+        "tree": 28.0,
+        "message": 47.63,
+        "nile": 67.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 26.5,
+        "mosaic": 78.0
+    },
+    "ioi22": {
+        "nile": 100.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 47.5,
+        "mosaic": 100.0
+    },
+    "jor1": {
+        "nile": 23.0,
+        "sphinx": 3.0,
+        "hieroglyphs": 3.0,
+        "message": 10.0,
+        "mosaic": 29.0
+    },
+    "dnk4": {
+        "mosaic": 27.0,
+        "nile": 19.0,
+        "sphinx": 64.0,
+        "hieroglyphs": 3.0,
+        "message": 49.61,
+        "tree": 10.0
+    },
+    "ita2": {
+        "sphinx": 26.5,
+        "hieroglyphs": 3.0,
+        "nile": 82.0,
+        "message": 61.19,
+        "tree": 10.0,
+        "mosaic": 100.0
+    },
+    "dza2": {
+        "nile": 6.0,
+        "hieroglyphs": 3.0
+    },
+    "kor3": {
+        "message": 58.64,
+        "hieroglyphs": 3.0,
+        "tree": 59.0,
+        "nile": 100.0,
+        "mosaic": 78.0,
+        "sphinx": 64.0
+    },
+    "mkd3": {
+        "tree": 10.0,
+        "mosaic": 29.0,
+        "nile": 17.0,
+        "hieroglyphs": 3.0,
+        "message": 30.33,
+        "sphinx": 10.0
+    },
+    "sau2": {
+        "tree": 10.0,
+        "message": 29.31,
+        "sphinx": 47.5,
+        "mosaic": 78.0,
+        "hieroglyphs": 3.0,
+        "nile": 67.0
+    },
+    "can4": {
+        "message": 51.7,
+        "mosaic": 34.0,
+        "nile": 82.0,
+        "sphinx": 10.0,
+        "tree": 10.0
+    },
+    "bgd3": {
+        "mosaic": 51.0,
+        "tree": 10.0,
+        "message": 43.97,
+        "nile": 100.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 10.0
+    },
+    "irl1": {
+        "sphinx": 26.5,
+        "message": 39.120000000000005,
+        "tree": 10.0,
+        "mosaic": 59.0,
+        "nile": 67.0,
+        "hieroglyphs": 3.0
+    },
+    "swe3": {
+        "mosaic": 37.0,
+        "nile": 67.0,
+        "message": 30.33,
+        "sphinx": 37.0,
+        "hieroglyphs": 3.0
+    },
+    "che4": {
+        "mosaic": 78.0,
+        "sphinx": 26.5,
+        "tree": 10.0,
+        "nile": 67.0,
+        "hieroglyphs": 3.0
+    },
+    "sgp2": {
+        "message": 30.33,
+        "nile": 100.0,
+        "tree": 41.0,
+        "hieroglyphs": 3.0,
+        "mosaic": 37.0,
+        "sphinx": 46.5
+    },
+    "ioi11": {
+        "mosaic": 78.0,
+        "sphinx": 64.0,
+        "tree": 59.0,
+        "hieroglyphs": 3.0,
+        "message": 72.85,
+        "nile": 100.0
+    },
+    "fra3": {
+        "message": 45.75,
+        "sphinx": 47.5,
+        "nile": 100.0,
+        "mosaic": 100.0,
+        "tree": 17.0,
+        "hieroglyphs": 3.0
+    },
+    "usa4": {
+        "nile": 100.0,
+        "hieroglyphs": 29.0,
+        "sphinx": 100.0,
+        "tree": 59.0,
+        "message": 83.31,
+        "mosaic": 100.0
+    },
+    "grc1": {
+        "mosaic": 37.0,
+        "sphinx": 31.0,
+        "nile": 100.0
+    },
+    "bol4": {
+        "mosaic": 29.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 3.0,
+        "nile": 6.0,
+        "message": 10.0
+    },
+    "arm4": {
+        "hieroglyphs": 3.0,
+        "nile": 67.0,
+        "sphinx": 47.5,
+        "mosaic": 37.0,
+        "message": 43.97,
+        "tree": 17.0
+    },
+    "irn4": {
+        "mosaic": 100.0,
+        "sphinx": 47.5,
+        "nile": 100.0,
+        "hieroglyphs": 3.0,
+        "tree": 48.0,
+        "message": 28.35
+    },
+    "mar4": {
+        "mosaic": 78.0,
+        "hieroglyphs": 3.0,
+        "message": 29.31,
+        "nile": 67.0,
+        "sphinx": 10.0
+    },
+    "ita4": {
+        "sphinx": 43.0,
+        "tree": 28.0,
+        "hieroglyphs": 3.0,
+        "nile": 82.0,
+        "mosaic": 78.0,
+        "message": 51.7
+    },
+    "bgr2": {
+        "hieroglyphs": 3.0,
+        "message": 69.71000000000001,
+        "mosaic": 100.0,
+        "sphinx": 37.0,
+        "tree": 10.0,
+        "nile": 100.0
+    },
+    "ind1": {
+        "mosaic": 78.0,
+        "tree": 48.0,
+        "nile": 100.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 64.0,
+        "message": 83.31
+    },
+    "tha2": {
+        "hieroglyphs": 3.0,
+        "message": 43.97,
+        "mosaic": 100.0,
+        "sphinx": 47.5,
+        "nile": 100.0,
+        "tree": 10.0
+    },
+    "nzl4": {
+        "message": 30.33,
+        "sphinx": 26.5,
+        "tree": 28.0,
+        "hieroglyphs": 3.0,
+        "nile": 19.0,
+        "mosaic": 37.0
+    },
+    "col3": {
+        "mosaic": 37.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 10.0,
+        "nile": 17.0,
+        "message": 10.0
+    },
+    "bgd2": {
+        "mosaic": 37.0,
+        "nile": 100.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 31.0,
+        "message": 61.19,
+        "tree": 10.0
+    },
+    "tkm3": {
+        "nile": 6.0,
+        "sphinx": 10.0,
+        "mosaic": 29.0
+    },
+    "arm2": {
+        "message": 45.75,
+        "mosaic": 100.0,
+        "tree": 10.0,
+        "sphinx": 64.0,
+        "hieroglyphs": 3.0,
+        "nile": 82.0
+    },
+    "slv3": {
+        "nile": 23.0,
+        "mosaic": 29.0,
+        "sphinx": 23.0,
+        "tree": 10.0,
+        "hieroglyphs": 3.0
+    },
+    "isr2": {
+        "tree": 59.0,
+        "mosaic": 100.0,
+        "hieroglyphs": 3.0,
+        "nile": 100.0,
+        "sphinx": 82.0,
+        "message": 95.5
+    },
+    "kor2": {
+        "message": 79.64,
+        "mosaic": 78.0,
+        "tree": 17.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 64.0,
+        "nile": 100.0
+    },
+    "ita1": {
+        "mosaic": 100.0,
+        "sphinx": 28.5,
+        "message": 49.61,
+        "tree": 17.0,
+        "nile": 82.0
+    },
+    "aut3": {
+        "message": 56.2,
+        "hieroglyphs": 3.0,
+        "nile": 36.0,
+        "tree": 10.0,
+        "mosaic": 37.0,
+        "sphinx": 47.5
+    },
+    "cze3": {
+        "mosaic": 100.0,
+        "message": 10.0,
+        "nile": 100.0,
+        "sphinx": 26.5
+    },
+    "lux4": {
+        "sphinx": 10.0,
+        "message": 29.31,
+        "mosaic": 19.0
+    },
+    "syr1": {
+        "nile": 100.0,
+        "tree": 10.0,
+        "message": 30.33,
+        "sphinx": 19.5,
+        "mosaic": 37.0,
+        "hieroglyphs": 3.0
+    },
+    "mac1": {
+        "sphinx": 28.5,
+        "message": 43.97,
+        "nile": 36.0,
+        "mosaic": 37.0,
+        "hieroglyphs": 3.0
+    },
+    "kaz3": {
+        "message": 43.97,
+        "hieroglyphs": 3.0,
+        "tree": 48.0,
+        "nile": 82.0,
+        "mosaic": 37.0,
+        "sphinx": 26.5
+    },
+    "ioi31": {
+        "mosaic": 59.0,
+        "tree": 59.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 64.0,
+        "message": 87.17,
+        "nile": 100.0
+    },
+    "geo2": {
+        "nile": 82.0,
+        "mosaic": 37.0,
+        "tree": 10.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 37.0,
+        "message": 36.28
+    },
+    "ecu3": {
+        "hieroglyphs": 3.0
+    },
+    "lux1": {
+        "message": 43.97,
+        "mosaic": 27.0,
+        "nile": 6.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 3.0
+    },
+    "ltu2": {
+        "sphinx": 64.0,
+        "mosaic": 100.0,
+        "nile": 38.0,
+        "message": 51.7,
+        "hieroglyphs": 3.0
+    },
+    "syr4": {
+        "message": 10.0,
+        "sphinx": 37.0,
+        "tree": 28.0,
+        "mosaic": 78.0,
+        "hieroglyphs": 3.0,
+        "nile": 82.0
+    },
+    "jpn4": {
+        "tree": 41.0,
+        "hieroglyphs": 3.0,
+        "message": 49.61,
+        "mosaic": 100.0,
+        "sphinx": 65.5,
+        "nile": 100.0
+    },
+    "fin2": {
+        "message": 51.7,
+        "tree": 41.0,
+        "mosaic": 100.0,
+        "sphinx": 53.5,
+        "nile": 100.0,
+        "hieroglyphs": 3.0
+    },
+    "col2": {
+        "nile": 36.0,
+        "sphinx": 26.5,
+        "mosaic": 19.0,
+        "message": 30.33,
+        "hieroglyphs": 3.0
+    },
+    "lby2": {
+        "mosaic": 37.0,
+        "tree": 10.0,
+        "nile": 23.0,
+        "sphinx": 10.0,
+        "message": 10.0
+    },
+    "kaz4": {
+        "message": 53.89,
+        "hieroglyphs": 17.0,
+        "tree": 10.0,
+        "mosaic": 78.0,
+        "nile": 100.0,
+        "sphinx": 64.0
+    },
+    "grc4": {
+        "sphinx": 26.5,
+        "mosaic": 37.0,
+        "hieroglyphs": 3.0,
+        "nile": 67.0,
+        "tree": 10.0,
+        "message": 39.120000000000005
+    },
+    "uzb3": {
+        "message": 10.0,
+        "mosaic": 78.0,
+        "sphinx": 26.5,
+        "nile": 82.0,
+        "tree": 28.0,
+        "hieroglyphs": 3.0
+    },
+    "esp1": {
+        "tree": 59.0,
+        "mosaic": 100.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 64.0,
+        "message": 76.16,
+        "nile": 100.0
+    },
+    "jpn3": {
+        "hieroglyphs": 3.0,
+        "tree": 59.0,
+        "sphinx": 51.5,
+        "nile": 100.0,
+        "message": 29.31,
+        "mosaic": 100.0
+    },
+    "lva1": {
+        "message": 79.64,
+        "sphinx": 64.0,
+        "nile": 100.0,
+        "hieroglyphs": 13.0,
+        "tree": 10.0,
+        "mosaic": 100.0
+    },
+    "svn4": {
+        "message": 10.0,
+        "mosaic": 59.0,
+        "nile": 67.0,
+        "sphinx": 10.0,
+        "tree": 10.0,
+        "hieroglyphs": 3.0
+    },
+    "sau4": {
+        "message": 45.75,
+        "mosaic": 59.0,
+        "nile": 36.0,
+        "tree": 10.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 10.0
+    },
+    "lka3": {
+        "nile": 17.0,
+        "mosaic": 27.0,
+        "hieroglyphs": 3.0,
+        "message": 49.61,
+        "sphinx": 3.0
+    },
+    "isl3": {
+        "hieroglyphs": 3.0,
+        "message": 29.31,
+        "mosaic": 22.0,
+        "nile": 36.0,
+        "sphinx": 3.0
+    },
+    "tjk3": {
+        "nile": 17.0,
+        "sphinx": 3.0,
+        "message": 29.31,
+        "mosaic": 22.0
+    },
+    "mar2": {
+        "sphinx": 26.5,
+        "nile": 38.0,
+        "hieroglyphs": 3.0,
+        "mosaic": 37.0
+    },
+    "tun1": {
+        "tree": 17.0,
+        "nile": 47.0,
+        "mosaic": 60.0,
+        "message": 10.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 47.5
+    },
+    "nor1": {
+        "sphinx": 64.0,
+        "message": 69.71000000000001,
+        "hieroglyphs": 3.0,
+        "mosaic": 100.0,
+        "nile": 100.0,
+        "tree": 23.0
+    },
+    "syr3": {
+        "sphinx": 37.0,
+        "mosaic": 37.0,
+        "nile": 82.0,
+        "tree": 10.0,
+        "hieroglyphs": 3.0,
+        "message": 29.31
+    },
+    "mda4": {
+        "message": 29.31,
+        "mosaic": 78.0,
+        "nile": 82.0,
+        "sphinx": 26.5,
+        "hieroglyphs": 3.0
+    },
+    "svk2": {
+        "mosaic": 37.0,
+        "message": 10.0,
+        "tree": 23.0,
+        "sphinx": 18.0,
+        "nile": 67.0
+    },
+    "pse4": {
+        "nile": 51.0,
+        "mosaic": 37.0,
+        "tree": 17.0,
+        "sphinx": 26.5,
+        "hieroglyphs": 3.0,
+        "message": 10.0
+    },
+    "chn3": {
+        "nile": 100.0,
+        "hieroglyphs": 50.0,
+        "tree": 100.0,
+        "sphinx": 32.0,
+        "message": 87.17,
+        "mosaic": 50.0
+    },
+    "tur1": {
+        "hieroglyphs": 3.0,
+        "sphinx": 100.0,
+        "nile": 100.0,
+        "tree": 41.0,
+        "message": 56.2,
+        "mosaic": 22.0
+    },
+    "kaz1": {
+        "tree": 10.0,
+        "mosaic": 100.0,
+        "nile": 100.0,
+        "sphinx": 47.5,
+        "hieroglyphs": 3.0,
+        "message": 29.31
+    },
+    "ven1": {
+        "mosaic": 37.0,
+        "hieroglyphs": 3.0,
+        "nile": 6.0,
+        "sphinx": 3.0,
+        "message": 10.0
+    },
+    "vnm2": {
+        "tree": 59.0,
+        "message": 51.7,
+        "sphinx": 47.5,
+        "mosaic": 100.0,
+        "nile": 100.0,
+        "hieroglyphs": 18.0
+    },
+    "est2": {
+        "nile": 67.0,
+        "hieroglyphs": 3.0,
+        "message": 79.64,
+        "sphinx": 26.5,
+        "mosaic": 100.0
+    },
+    "usa2": {
+        "nile": 100.0,
+        "tree": 31.0,
+        "hieroglyphs": 100.0,
+        "mosaic": 100.0,
+        "sphinx": 64.0,
+        "message": 43.97
+    },
+    "irl3": {
+        "message": 72.85,
+        "mosaic": 42.0,
+        "hieroglyphs": 3.0
+    },
+    "ioi14": {
+        "message": 66.72,
+        "mosaic": 100.0,
+        "tree": 59.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 43.0,
+        "nile": 100.0
+    },
+    "bel2": {
+        "sphinx": 26.5,
+        "nile": 82.0,
+        "tree": 10.0,
+        "hieroglyphs": 3.0,
+        "mosaic": 37.0,
+        "message": 29.31
+    },
+    "bol1": {
+        "message": 10.0,
+        "nile": 30.0,
+        "mosaic": 37.0,
+        "sphinx": 3.0,
+        "hieroglyphs": 3.0
+    },
+    "pol2": {
+        "hieroglyphs": 3.0,
+        "nile": 100.0,
+        "tree": 48.0,
+        "sphinx": 64.0,
+        "message": 43.97,
+        "mosaic": 100.0
+    },
+    "irl2": {
+        "mosaic": 37.0,
+        "nile": 23.0,
+        "sphinx": 26.5,
+        "hieroglyphs": 3.0
+    },
+    "col1": {
+        "hieroglyphs": 3.0,
+        "nile": 19.0,
+        "message": 29.31
+    },
+    "bra3": {
+        "nile": 100.0,
+        "message": 58.64,
+        "mosaic": 59.0,
+        "sphinx": 47.5,
+        "hieroglyphs": 3.0,
+        "tree": 17.0
+    },
+    "chl4": {
+        "mosaic": 37.0,
+        "hieroglyphs": 3.0,
+        "nile": 36.0,
+        "sphinx": 3.0
+    },
+    "sgp1": {
+        "hieroglyphs": 3.0,
+        "nile": 100.0,
+        "sphinx": 64.0,
+        "mosaic": 37.0,
+        "tree": 59.0,
+        "message": 51.7
+    },
+    "prt4": {
+        "nile": 36.0,
+        "tree": 10.0,
+        "mosaic": 37.0,
+        "message": 29.31,
+        "sphinx": 3.0
+    },
+    "per1": {
+        "sphinx": 26.5,
+        "nile": 67.0,
+        "mosaic": 37.0,
+        "hieroglyphs": 3.0,
+        "message": 10.0,
+        "tree": 10.0
+    },
+    "mex2": {
+        "tree": 17.0,
+        "mosaic": 37.0,
+        "sphinx": 37.0,
+        "nile": 82.0,
+        "message": 49.61,
+        "hieroglyphs": 3.0
+    },
+    "svk4": {
+        "nile": 82.0,
+        "tree": 17.0,
+        "sphinx": 26.5,
+        "hieroglyphs": 3.0,
+        "message": 34.97,
+        "mosaic": 37.0
+    },
+    "deu3": {
+        "sphinx": 10.0,
+        "mosaic": 51.0,
+        "nile": 23.0
+    },
+    "nga1": {
+        "sphinx": 20.5,
+        "nile": 82.0,
+        "mosaic": 37.0,
+        "message": 40.65,
+        "hieroglyphs": 3.0
+    },
+    "egy21": {
+        "hieroglyphs": 17.0,
+        "nile": 100.0,
+        "mosaic": 59.0,
+        "tree": 10.0,
+        "sphinx": 37.0
+    },
+    "nzl3": {
+        "nile": 23.0,
+        "message": 29.31,
+        "sphinx": 37.0,
+        "mosaic": 12.0
+    },
+    "sau3": {
+        "sphinx": 26.5,
+        "nile": 82.0,
+        "mosaic": 37.0,
+        "message": 29.31,
+        "hieroglyphs": 3.0,
+        "tree": 10.0
+    },
+    "geo1": {
+        "message": 10.0,
+        "nile": 67.0,
+        "mosaic": 53.0,
+        "tree": 10.0,
+        "hieroglyphs": 3.0
+    },
+    "pse1": {
+        "nile": 67.0,
+        "mosaic": 59.0,
+        "tree": 10.0,
+        "message": 30.33,
+        "sphinx": 10.0,
+        "hieroglyphs": 3.0
+    },
+    "aze3": {
+        "message": 42.27,
+        "nile": 67.0,
+        "mosaic": 37.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 26.5,
+        "tree": 10.0
+    },
+    "tun2": {
+        "nile": 67.0,
+        "tree": 7.0,
+        "mosaic": 37.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 26.5,
+        "message": 36.28
+    },
+    "swe1": {
+        "nile": 82.0,
+        "sphinx": 47.5,
+        "hieroglyphs": 3.0,
+        "mosaic": 37.0,
+        "message": 49.61,
+        "tree": 10.0
+    },
+    "uzb1": {
+        "mosaic": 37.0,
+        "sphinx": 32.0,
+        "nile": 82.0,
+        "hieroglyphs": 3.0,
+        "tree": 10.0,
+        "message": 30.33
+    },
+    "dom1": {
+        "nile": 6.0,
+        "mosaic": 19.0,
+        "sphinx": 3.0,
+        "hieroglyphs": 3.0
+    },
+    "pol3": {
+        "mosaic": 100.0,
+        "message": 61.19,
+        "tree": 28.0,
+        "nile": 100.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 64.0
+    },
+    "mac4": {
+        "hieroglyphs": 3.0,
+        "mosaic": 68.0,
+        "sphinx": 26.5,
+        "nile": 67.0,
+        "message": 32.53,
+        "tree": 10.0
+    },
+    "chn2": {
+        "tree": 100.0,
+        "hieroglyphs": 100.0,
+        "message": 100.0,
+        "mosaic": 100.0,
+        "nile": 100.0,
+        "sphinx": 100.0
+    },
+    "egy4": {
+        "mosaic": 37.0,
+        "message": 30.33,
+        "nile": 67.0,
+        "sphinx": 18.0,
+        "tree": 10.0,
+        "hieroglyphs": 3.0
+    },
+    "esp4": {
+        "sphinx": 36.0,
+        "nile": 6.0,
+        "mosaic": 29.0,
+        "message": 49.61,
+        "hieroglyphs": 3.0
+    },
+    "bih4": {
+        "nile": 82.0,
+        "message": 30.33,
+        "sphinx": 47.5,
+        "hieroglyphs": 3.0,
+        "mosaic": 37.0,
+        "tree": 10.0
+    },
+    "mkd4": {
+        "nile": 67.0,
+        "hieroglyphs": 3.0,
+        "tree": 10.0,
+        "sphinx": 10.0,
+        "mosaic": 37.0
+    },
+    "hrv4": {
+        "message": 40.65,
+        "mosaic": 100.0,
+        "tree": 17.0,
+        "hieroglyphs": 3.0,
+        "nile": 82.0,
+        "sphinx": 26.5
+    },
+    "dom4": {
+        "mosaic": 37.0,
+        "message": 30.33,
+        "sphinx": 26.5,
+        "nile": 23.0,
+        "hieroglyphs": 3.0,
+        "tree": 10.0
+    },
+    "slv1": {
+        "mosaic": 78.0,
+        "sphinx": 3.0,
+        "hieroglyphs": 3.0,
+        "nile": 36.0,
+        "tree": 10.0,
+        "message": 29.31
+    },
+    "twn3": {
+        "mosaic": 100.0,
+        "tree": 28.0,
+        "hieroglyphs": 3.0,
+        "nile": 82.0,
+        "message": 43.97,
+        "sphinx": 26.5
+    },
+    "aut4": {
+        "sphinx": 40.5,
+        "mosaic": 37.0,
+        "message": 32.53,
+        "tree": 10.0,
+        "nile": 67.0,
+        "hieroglyphs": 3.0
+    },
+    "jor2": {
+        "mosaic": 27.0,
+        "nile": 36.0,
+        "hieroglyphs": 3.0
+    },
+    "pak3": {
+        "message": 43.97,
+        "tree": 10.0,
+        "mosaic": 37.0,
+        "sphinx": 37.0,
+        "nile": 82.0,
+        "hieroglyphs": 17.0
+    },
+    "ioi23": {
+        "sphinx": 47.5,
+        "mosaic": 78.0,
+        "hieroglyphs": 3.0,
+        "message": 29.31,
+        "nile": 100.0,
+        "tree": 10.0
+    },
+    "lka1": {
+        "nile": 67.0,
+        "sphinx": 43.0,
+        "mosaic": 37.0,
+        "message": 51.7,
+        "hieroglyphs": 3.0
+    },
+    "aut2": {
+        "message": 43.97,
+        "mosaic": 100.0,
+        "nile": 67.0,
+        "sphinx": 64.0,
+        "hieroglyphs": 3.0,
+        "tree": 10.0
+    },
+    "bih2": {
+        "tree": 10.0,
+        "sphinx": 26.5,
+        "hieroglyphs": 3.0,
+        "nile": 100.0,
+        "message": 45.75,
+        "mosaic": 100.0
+    },
+    "dom2": {
+        "mosaic": 27.0,
+        "sphinx": 20.5,
+        "hieroglyphs": 3.0,
+        "nile": 6.0,
+        "message": 29.31
+    },
+    "kor4": {
+        "hieroglyphs": 3.0,
+        "nile": 100.0,
+        "mosaic": 100.0,
+        "tree": 59.0,
+        "message": 31.4,
+        "sphinx": 64.0
+    },
+    "nzl1": {
+        "mosaic": 78.0,
+        "message": 69.71000000000001,
+        "tree": 10.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 47.5,
+        "nile": 100.0
+    },
+    "uzb4": {
+        "tree": 17.0,
+        "nile": 47.0,
+        "mosaic": 37.0,
+        "hieroglyphs": 3.0,
+        "message": 10.0,
+        "sphinx": 47.5
+    },
+    "est1": {
+        "nile": 36.0,
+        "mosaic": 29.0,
+        "tree": 10.0,
+        "sphinx": 18.0,
+        "hieroglyphs": 3.0
+    },
+    "kgz2": {
+        "sphinx": 10.0,
+        "nile": 100.0,
+        "mosaic": 37.0,
+        "tree": 17.0,
+        "hieroglyphs": 3.0,
+        "message": 83.31
+    },
+    "bra4": {
+        "hieroglyphs": 3.0,
+        "mosaic": 29.0,
+        "message": 10.0,
+        "tree": 10.0,
+        "sphinx": 37.0,
+        "nile": 82.0
+    },
+    "mkd1": {
+        "mosaic": 100.0,
+        "tree": 17.0,
+        "message": 83.31,
+        "sphinx": 47.5,
+        "hieroglyphs": 3.0,
+        "nile": 100.0
+    },
+    "phl1": {
+        "mosaic": 100.0,
+        "nile": 82.0,
+        "sphinx": 10.0,
+        "message": 42.27,
+        "tree": 10.0,
+        "hieroglyphs": 3.0
+    },
+    "lby4": {
+        "hieroglyphs": 3.0,
+        "mosaic": 12.0
+    },
+    "cyp1": {
+        "mosaic": 59.0,
+        "nile": 82.0,
+        "sphinx": 47.5,
+        "tree": 28.0,
+        "message": 49.61,
+        "hieroglyphs": 3.0
+    },
+    "cze1": {
+        "nile": 82.0,
+        "message": 79.64,
+        "mosaic": 100.0,
+        "hieroglyphs": 3.0,
+        "tree": 17.0,
+        "sphinx": 47.5
+    },
+    "zaf1": {
+        "tree": 10.0,
+        "hieroglyphs": 3.0,
+        "message": 49.61,
+        "sphinx": 26.5,
+        "nile": 67.0,
+        "mosaic": 37.0
+    },
+    "ltu1": {
+        "message": 30.33,
+        "nile": 47.0,
+        "mosaic": 37.0,
+        "tree": 17.0,
+        "sphinx": 26.5,
+        "hieroglyphs": 3.0
+    },
+    "cze4": {
+        "mosaic": 37.0,
+        "nile": 82.0,
+        "sphinx": 64.0,
+        "message": 29.31,
+        "hieroglyphs": 3.0
+    },
+    "rou1": {
+        "tree": 28.0,
+        "mosaic": 70.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 64.0,
+        "message": 66.72,
+        "nile": 100.0
+    },
+    "hun1": {
+        "hieroglyphs": 3.0,
+        "sphinx": 53.5,
+        "tree": 59.0,
+        "message": 87.17,
+        "nile": 100.0,
+        "mosaic": 100.0
+    },
+    "mys1": {
+        "tree": 10.0,
+        "mosaic": 100.0,
+        "message": 47.63,
+        "hieroglyphs": 3.0,
+        "nile": 100.0,
+        "sphinx": 47.5
+    },
+    "prt2": {
+        "nile": 36.0,
+        "hieroglyphs": 3.0,
+        "message": 30.33,
+        "mosaic": 29.0,
+        "tree": 10.0,
+        "sphinx": 3.0
+    },
+    "svn2": {
+        "mosaic": 78.0,
+        "nile": 38.0,
+        "message": 30.33,
+        "sphinx": 19.5,
+        "hieroglyphs": 3.0,
+        "tree": 10.0
+    },
+    "jpn1": {
+        "tree": 59.0,
+        "message": 66.72,
+        "mosaic": 100.0,
+        "sphinx": 82.0,
+        "nile": 100.0,
+        "hieroglyphs": 3.0
+    },
+    "lka4": {
+        "mosaic": 37.0,
+        "message": 29.31,
+        "nile": 36.0,
+        "sphinx": 47.5
+    },
+    "irn3": {
+        "hieroglyphs": 3.0,
+        "mosaic": 100.0,
+        "message": 53.89,
+        "sphinx": 64.0,
+        "tree": 28.0,
+        "nile": 67.0
+    },
+    "irl4": {
+        "mosaic": 12.0,
+        "nile": 6.0,
+        "sphinx": 3.0,
+        "hieroglyphs": 3.0
+    },
+    "alb3": {
+        "sphinx": 1.5,
+        "mosaic": 5.0
+    },
+    "fin3": {
+        "nile": 36.0,
+        "sphinx": 26.5,
+        "hieroglyphs": 3.0,
+        "message": 40.65,
+        "mosaic": 37.0,
+        "tree": 10.0
+    },
+    "hrv2": {
+        "nile": 82.0,
+        "tree": 17.0,
+        "sphinx": 64.0,
+        "mosaic": 100.0,
+        "hieroglyphs": 3.0,
+        "message": 10.0
+    },
+    "prt1": {
+        "sphinx": 47.5,
+        "nile": 19.0,
+        "tree": 10.0,
+        "mosaic": 37.0,
+        "message": 10.0,
+        "hieroglyphs": 19.0
+    },
+    "lva2": {
+        "mosaic": 70.0,
+        "message": 30.33,
+        "tree": 10.0,
+        "nile": 34.0,
+        "sphinx": 10.0
+    },
+    "tkm1": {
+        "hieroglyphs": 3.0,
+        "nile": 47.0,
+        "message": 10.0,
+        "mosaic": 37.0,
+        "sphinx": 26.5
+    },
+    "tjk2": {
+        "mosaic": 37.0,
+        "tree": 28.0,
+        "sphinx": 10.0,
+        "message": 30.33,
+        "nile": 67.0,
+        "hieroglyphs": 3.0
+    },
+    "gbr3": {
+        "sphinx": 64.0,
+        "tree": 28.0,
+        "nile": 82.0,
+        "mosaic": 100.0,
+        "hieroglyphs": 3.0,
+        "message": 69.71000000000001
+    },
+    "cze2": {
+        "mosaic": 100.0,
+        "nile": 100.0,
+        "message": 10.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 10.0
+    },
+    "mne1": {
+        "mosaic": 37.0,
+        "nile": 6.0,
+        "sphinx": 10.0
+    },
+    "ecu2": {
+        "mosaic": 22.0
+    },
+    "egy2": {
+        "mosaic": 37.0,
+        "nile": 100.0,
+        "message": 30.33,
+        "sphinx": 47.5,
+        "hieroglyphs": 32.0,
+        "tree": 10.0
+    },
+    "ecu1": {
+        "mosaic": 29.0,
+        "hieroglyphs": 3.0,
+        "sphinx": 3.0
+    },
+    "per4": {
+        "sphinx": 26.5,
+        "tree": 10.0,
+        "nile": 67.0,
+        "mosaic": 29.0,
+        "hieroglyphs": 3.0
+    },
+    "zaf3": {
+        "sphinx": 47.5,
+        "nile": 67.0,
+        "message": 72.85,
+        "tree": 10.0,
+        "mosaic": 37.0,
+        "hieroglyphs": 3.0
+    },
+    "egy24": {
+        "mosaic": 37.0,
+        "sphinx": 26.5,
+        "nile": 67.0,
+        "hieroglyphs": 3.0,
+        "tree": 17.0,
+        "message": 10.0
+    },
+    "vnm3": {
+        "tree": 59.0,
+        "hieroglyphs": 3.0,
+        "mosaic": 29.0,
+        "nile": 100.0,
+        "sphinx": 36.0,
+        "message": 56.2
+    },
+    "nor2": {
+        "nile": 100.0,
+        "sphinx": 19.5,
+        "mosaic": 78.0,
+        "message": 29.31,
+        "hieroglyphs": 3.0
+    },
+    "svk3": {
+        "hieroglyphs": 3.0,
+        "message": 29.31,
+        "mosaic": 78.0,
+        "nile": 51.0,
+        "sphinx": 64.0,
+        "tree": 10.0
+    },
+    "dnk1": {
+        "sphinx": 26.5,
+        "message": 43.97,
+        "mosaic": 37.0,
+        "nile": 67.0,
+        "tree": 10.0,
+        "hieroglyphs": 3.0
+    }
+}

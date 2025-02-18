@@ -1,0 +1,1181 @@
+[
+    {
+        "user": "chn4",
+        "task": "hieroglyphs",
+        "time": 1725529123,
+        "key": "17270",
+        "score": 1.5,
+        "token": false,
+        "extra": [
+            "0",
+            "3",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "hieroglyphs",
+        "time": 1725529184,
+        "key": "17305",
+        "score": 1.5,
+        "token": false,
+        "extra": [
+            "0",
+            "3",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "hieroglyphs",
+        "time": 1725529594,
+        "key": "17512",
+        "score": 1.5,
+        "token": false,
+        "extra": [
+            "0",
+            "3",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "hieroglyphs",
+        "time": 1725529793,
+        "key": "17587",
+        "score": 1.5,
+        "token": false,
+        "extra": [
+            "0",
+            "3",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "hieroglyphs",
+        "time": 1725529864,
+        "key": "17620",
+        "score": 1.5,
+        "token": false,
+        "extra": [
+            "0",
+            "3",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "hieroglyphs",
+        "time": 1725529928,
+        "key": "17658",
+        "score": 1.5,
+        "token": false,
+        "extra": [
+            "0",
+            "3",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "hieroglyphs",
+        "time": 1725530123,
+        "key": "17746",
+        "score": 1.5,
+        "token": false,
+        "extra": [
+            "0",
+            "3",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "hieroglyphs",
+        "time": 1725530275,
+        "key": "17801",
+        "score": 6.5,
+        "token": false,
+        "extra": [
+            "0",
+            "3",
+            "0",
+            "10",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "hieroglyphs",
+        "time": 1725532658,
+        "key": "18882",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "hieroglyphs",
+        "time": 1725533075,
+        "key": "19079",
+        "score": 1.5,
+        "token": false,
+        "extra": [
+            "0",
+            "3",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "hieroglyphs",
+        "time": 1725533145,
+        "key": "19114",
+        "score": 9.0,
+        "token": false,
+        "extra": [
+            "0",
+            "3",
+            "15",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "message",
+        "time": 1725353305,
+        "key": "7853",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "message",
+        "time": 1725353372,
+        "key": "7879",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "message",
+        "time": 1725353564,
+        "key": "7962",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "message",
+        "time": 1725353933,
+        "key": "8095",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "message",
+        "time": 1725354006,
+        "key": "8124",
+        "score": 39.72,
+        "token": false,
+        "extra": [
+            "0",
+            "3.97",
+            "35.75"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "message",
+        "time": 1725354066,
+        "key": "8153",
+        "score": 4.633,
+        "token": false,
+        "extra": [
+            "0",
+            "4.63",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "message",
+        "time": 1725354246,
+        "key": "8206",
+        "score": 10.0,
+        "token": false,
+        "extra": [
+            "0",
+            "10",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "message",
+        "time": 1725358755,
+        "key": "10192",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "message",
+        "time": 1725358912,
+        "key": "10273",
+        "score": 4.181,
+        "token": false,
+        "extra": [
+            "0",
+            "4.18",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "message",
+        "time": 1725358994,
+        "key": "10318",
+        "score": 39.72,
+        "token": false,
+        "extra": [
+            "0",
+            "3.97",
+            "35.75"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "message",
+        "time": 1725360339,
+        "key": "11023",
+        "score": 41.81,
+        "token": false,
+        "extra": [
+            "0",
+            "4.18",
+            "37.63"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "message",
+        "time": 1725360396,
+        "key": "11060",
+        "score": 44.010000000000005,
+        "token": false,
+        "extra": [
+            "0",
+            "4.4",
+            "39.61"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "message",
+        "time": 1725360417,
+        "key": "11082",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "message",
+        "time": 1725360448,
+        "key": "11115",
+        "score": 4.633,
+        "token": false,
+        "extra": [
+            "0",
+            "4.63",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "message",
+        "time": 1725360472,
+        "key": "11131",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "message",
+        "time": 1725360501,
+        "key": "11151",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "message",
+        "time": 1725360504,
+        "key": "11154",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "message",
+        "time": 1725360507,
+        "key": "11157",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "message",
+        "time": 1725361015,
+        "key": "11741",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "message",
+        "time": 1725361023,
+        "key": "11755",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "message",
+        "time": 1725361028,
+        "key": "11762",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "message",
+        "time": 1725361123,
+        "key": "11993",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "mosaic",
+        "time": 1725525347,
+        "key": "15714",
+        "score": 26.5,
+        "token": false,
+        "extra": [
+            "0",
+            "5",
+            "0",
+            "7",
+            "0",
+            "0",
+            "22",
+            "19",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "mosaic",
+        "time": 1725525568,
+        "key": "15821",
+        "score": 26.5,
+        "token": false,
+        "extra": [
+            "0",
+            "5",
+            "0",
+            "7",
+            "0",
+            "0",
+            "22",
+            "19",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "mosaic",
+        "time": 1725525811,
+        "key": "15915",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "mosaic",
+        "time": 1725526031,
+        "key": "16008",
+        "score": 50,
+        "token": false,
+        "extra": [
+            "0",
+            "5",
+            "7",
+            "7",
+            "10",
+            "8",
+            "22",
+            "19",
+            "22"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "nile",
+        "time": 1725344869,
+        "key": "4914",
+        "score": 38.0,
+        "token": false,
+        "extra": [
+            "0",
+            "6",
+            "0",
+            "17",
+            "0",
+            "0",
+            "15",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "nile",
+        "time": 1725345344,
+        "key": "5100",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "nile",
+        "time": 1725346487,
+        "key": "5496",
+        "score": 100.0,
+        "token": false,
+        "extra": [
+            "0",
+            "6",
+            "13",
+            "17",
+            "11",
+            "20",
+            "15",
+            "18"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "sphinx",
+        "time": 1725519812,
+        "key": "13358",
+        "score": 12.0,
+        "token": false,
+        "extra": [
+            "0",
+            "3",
+            "0",
+            "0",
+            "21",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "sphinx",
+        "time": 1725520102,
+        "key": "13487",
+        "score": 32.0,
+        "token": false,
+        "extra": [
+            "0",
+            "3",
+            "7",
+            "33",
+            "21",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "sphinx",
+        "time": 1725520616,
+        "key": "13697",
+        "score": 32.0,
+        "token": false,
+        "extra": [
+            "0",
+            "3",
+            "7",
+            "33",
+            "21",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "sphinx",
+        "time": 1725520723,
+        "key": "13748",
+        "score": 32.0,
+        "token": false,
+        "extra": [
+            "0",
+            "3",
+            "7",
+            "33",
+            "21",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "sphinx",
+        "time": 1725520793,
+        "key": "13768",
+        "score": 32.0,
+        "token": false,
+        "extra": [
+            "0",
+            "3",
+            "7",
+            "33",
+            "21",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "sphinx",
+        "time": 1725521017,
+        "key": "13879",
+        "score": 32.0,
+        "token": false,
+        "extra": [
+            "0",
+            "3",
+            "7",
+            "33",
+            "21",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "sphinx",
+        "time": 1725521244,
+        "key": "13974",
+        "score": 32.0,
+        "token": false,
+        "extra": [
+            "0",
+            "3",
+            "7",
+            "33",
+            "21",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "sphinx",
+        "time": 1725521566,
+        "key": "14090",
+        "score": 32.0,
+        "token": false,
+        "extra": [
+            "0",
+            "3",
+            "7",
+            "33",
+            "21",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "sphinx",
+        "time": 1725521778,
+        "key": "14175",
+        "score": 32.0,
+        "token": false,
+        "extra": [
+            "0",
+            "3",
+            "7",
+            "33",
+            "21",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "sphinx",
+        "time": 1725521882,
+        "key": "14212",
+        "score": 32.0,
+        "token": false,
+        "extra": [
+            "0",
+            "3",
+            "7",
+            "33",
+            "21",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "sphinx",
+        "time": 1725522027,
+        "key": "14270",
+        "score": 32.0,
+        "token": false,
+        "extra": [
+            "0",
+            "3",
+            "7",
+            "33",
+            "21",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "sphinx",
+        "time": 1725522145,
+        "key": "14315",
+        "score": 32.0,
+        "token": false,
+        "extra": [
+            "0",
+            "3",
+            "7",
+            "33",
+            "21",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "sphinx",
+        "time": 1725522264,
+        "key": "14370",
+        "score": 32.0,
+        "token": false,
+        "extra": [
+            "0",
+            "3",
+            "7",
+            "33",
+            "21",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "sphinx",
+        "time": 1725522344,
+        "key": "14398",
+        "score": 32.0,
+        "token": false,
+        "extra": [
+            "0",
+            "3",
+            "7",
+            "33",
+            "21",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "sphinx",
+        "time": 1725522407,
+        "key": "14415",
+        "score": 32.0,
+        "token": false,
+        "extra": [
+            "0",
+            "3",
+            "7",
+            "33",
+            "21",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "sphinx",
+        "time": 1725522660,
+        "key": "14508",
+        "score": 32.0,
+        "token": false,
+        "extra": [
+            "0",
+            "3",
+            "7",
+            "33",
+            "21",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "sphinx",
+        "time": 1725522750,
+        "key": "14552",
+        "score": 12.0,
+        "token": false,
+        "extra": [
+            "0",
+            "3",
+            "0",
+            "0",
+            "21",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "sphinx",
+        "time": 1725523555,
+        "key": "14891",
+        "score": 50.0,
+        "token": false,
+        "extra": [
+            "0",
+            "3",
+            "7",
+            "33",
+            "21",
+            "36"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "tree",
+        "time": 1725355224,
+        "key": "8627",
+        "score": 10.0,
+        "token": false,
+        "extra": [
+            "0",
+            "10",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "tree",
+        "time": 1725355367,
+        "key": "8689",
+        "score": 10.0,
+        "token": false,
+        "extra": [
+            "0",
+            "10",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "tree",
+        "time": 1725355428,
+        "key": "8710",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "tree",
+        "time": 1725355498,
+        "key": "8730",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "tree",
+        "time": 1725355633,
+        "key": "8791",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "tree",
+        "time": 1725355760,
+        "key": "8834",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "tree",
+        "time": 1725355820,
+        "key": "8865",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "tree",
+        "time": 1725355881,
+        "key": "8895",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "tree",
+        "time": 1725355941,
+        "key": "8925",
+        "score": 13.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "13",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "tree",
+        "time": 1725356065,
+        "key": "8976",
+        "score": 13.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "13",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "tree",
+        "time": 1725356327,
+        "key": "9091",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "tree",
+        "time": 1725356442,
+        "key": "9143",
+        "score": 13.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "13",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "tree",
+        "time": 1725356587,
+        "key": "9222",
+        "score": 13.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "13",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "tree",
+        "time": 1725356666,
+        "key": "9260",
+        "score": 41.0,
+        "token": false,
+        "extra": [
+            "0",
+            "10",
+            "13",
+            "18",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "tree",
+        "time": 1725358031,
+        "key": "9874",
+        "score": 7.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "7",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "chn4",
+        "task": "tree",
+        "time": 1725358183,
+        "key": "9942",
+        "score": 18.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "7",
+            "11",
+            "0",
+            "0"
+        ]
+    }
+]
