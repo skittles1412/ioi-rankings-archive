@@ -27,7 +27,7 @@ const config = {
         logo: "img/logo.png",
     },
     "2024": {
-        favicon: "img/favicon.ico",
+        favicon: "img/favicon.png",
         logo: "img/logo.png"
     },
 };
