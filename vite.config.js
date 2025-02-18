@@ -25,10 +25,14 @@ const config = {
     "2023": {
         favicon: "img/favicon.png",
         logo: "img/logo.png",
-    }
+    },
+    "2024": {
+        favicon: "img/favicon.ico",
+        logo: "img/logo.png"
+    },
 };
 
-const years = [2017, 2019, 2020, 2021, 2022, 2023];
+const years = [2017, 2019, 2020, 2021, 2022, 2023, 2024];
 
 function patchHtmlPlugin() {
     function transformIndexHtml(src, path) {

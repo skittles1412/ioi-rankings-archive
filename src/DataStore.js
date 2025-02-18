@@ -298,6 +298,8 @@ export default new function () {
         } else {
             data.display_key = key;
         }
+        // MODIFICATION - make all IOI 2024 user ids uppercase
+        data.display_key = data.display_key.toUpperCase();
         self.users[key] = data;
 
         console.info("Created user " + key);

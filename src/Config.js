@@ -19,6 +19,11 @@ import DataStore from "./DataStore.js";
 
 // gold medal boundary at x means rank <= x gets gold
 export const MEDAL_BOUNDARIES = {
+    2024: {
+        gold: 34,
+        silver: 96,
+        bronze: 189,
+    },
     2023: {
         gold: 30,
         silver: 89,
